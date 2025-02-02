@@ -1,0 +1,402 @@
+[
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-14",
+        "end_date": "2025-10-14",
+        "venue": "Unity Arena",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "Auditorio Nacional",
+        "city/state": "Ciudad de MA(c)xico",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-04",
+        "end_date": "2025-10-04",
+        "venue": "Utilita Arena Birmingham",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-26",
+        "end_date": "2025-10-26",
+        "venue": "Schleyerhalle",
+        "city/state": "Stuttgart",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-21",
+        "end_date": "2025-10-21",
+        "venue": "Olympiahalle",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-10",
+        "end_date": "2025-10-10",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-28",
+        "end_date": "2025-10-28",
+        "venue": "Rudolf Weber-ARENA",
+        "city/state": "Oberhausen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-09-24",
+        "end_date": "2025-09-24",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-05",
+        "venue": "Movistar Arena",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-19",
+        "end_date": "2025-11-19",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-18",
+        "end_date": "2025-11-18",
+        "venue": "ZA(c)nith de Lille",
+        "city/state": "Lille",
+        "country": "France"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Auditorio Nacional",
+        "city/state": "Ciudad de MA(c)xico",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-05",
+        "end_date": "2025-11-05",
+        "venue": "Wiener Stadthalle",
+        "city/state": "Vienna",
+        "country": "Austria"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-14",
+        "end_date": "2025-11-14",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "Movistar Arena",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-04",
+        "end_date": "2025-11-04",
+        "venue": "Tauron Arena",
+        "city/state": "Krakau",
+        "country": "Poland"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-07",
+        "end_date": "2025-11-07",
+        "venue": "Kioene Arena",
+        "city/state": "Padova",
+        "country": "Italy"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-11",
+        "end_date": "2025-10-11",
+        "venue": "OVO Arena Wembley",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-01",
+        "venue": "Auditorio Nacional",
+        "city/state": "Ciudad de MA(c)xico",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-12",
+        "venue": "Jeunesse Arena",
+        "city/state": "Rio de Janeiro",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-08",
+        "end_date": "2025-11-08",
+        "venue": "Forum",
+        "city/state": "Assago",
+        "country": "Italy"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-09-30",
+        "end_date": "2025-09-30",
+        "venue": "Utilita Arena Sheffield",
+        "city/state": "Sheffield",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-07",
+        "end_date": "2025-10-07",
+        "venue": "The Brighton Centre",
+        "city/state": "Brighton",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-04",
+        "end_date": "2025-03-04",
+        "venue": "Movistar Arena",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-22",
+        "end_date": "2025-10-22",
+        "venue": "Arena NA 1/4rnberger Versicherung",
+        "city/state": "Nuremberg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-09",
+        "venue": "Movistar Arena",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-09-28",
+        "end_date": "2025-09-28",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-01",
+        "end_date": "2025-10-01",
+        "venue": "Motorpoint Arena",
+        "city/state": "Nottingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-05",
+        "end_date": "2025-10-05",
+        "venue": "Utilita Arena Cardiff",
+        "city/state": "Cardiff",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-24",
+        "end_date": "2025-10-24",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-19",
+        "end_date": "2025-10-19",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-31",
+        "end_date": "2025-10-31",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-20",
+        "end_date": "2025-11-20",
+        "venue": "Zenith Metropole",
+        "city/state": "Nantes",
+        "country": "France"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-16",
+        "end_date": "2025-11-16",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-25",
+        "end_date": "2025-10-25",
+        "venue": "SAP Arena",
+        "city/state": "Mannheim",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-09-23",
+        "end_date": "2025-09-23",
+        "venue": "The SSE Arena, Belfast",
+        "city/state": "Belfast",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "Movistar Arena",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-15",
+        "end_date": "2025-10-15",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-09",
+        "end_date": "2025-11-09",
+        "venue": "Nelson Mandela Forum",
+        "city/state": "Firenze",
+        "country": "Italy"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-12",
+        "end_date": "2025-11-12",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-09-26",
+        "end_date": "2025-09-26",
+        "venue": "First Direct Arena",
+        "city/state": "Leeds",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-01",
+        "end_date": "2025-11-01",
+        "venue": "Festhalle Messe",
+        "city/state": "Frankfurt am Main",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-18",
+        "end_date": "2025-10-18",
+        "venue": "QUARTERBACK Immobilien AG",
+        "city/state": "Leipzig",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-11-15",
+        "end_date": "2025-11-15",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-29",
+        "end_date": "2025-10-29",
+        "venue": "ZAG Arena",
+        "city/state": "Hannover",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-17",
+        "end_date": "2025-10-17",
+        "venue": "Barclays Arena",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-09",
+        "end_date": "2025-10-09",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-10-03",
+        "end_date": "2025-10-03",
+        "venue": "M&S Bank Arena Liverpool",
+        "city/state": "Liverpool",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-15",
+        "venue": "Allianz Parque",
+        "city/state": "SAPSo Paulo",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Simply Red",
+        "start_date": "2025-09-27",
+        "end_date": "2025-09-27",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    }
+]

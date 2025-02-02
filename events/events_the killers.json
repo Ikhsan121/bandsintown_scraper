@@ -1,0 +1,34 @@
+[
+    {
+        "artist": "The Killers",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Harrah's Laughlin Casino & Hotel",
+        "city/state": "Laughlin",
+        "country": "NV"
+    },
+    {
+        "artist": "The Killers",
+        "start_date": "2025-02-19",
+        "end_date": "2025-02-19",
+        "venue": "Hard Rock Live Sacramento",
+        "city/state": "Wheatland",
+        "country": "CA"
+    },
+    {
+        "artist": "The Killers",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "Innings Festival 2025",
+        "city/state": "Tempe",
+        "country": "Arizona"
+    },
+    {
+        "artist": "The Killers",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "Yaamavaa Theater",
+        "city/state": "Highland",
+        "country": "CA"
+    }
+]

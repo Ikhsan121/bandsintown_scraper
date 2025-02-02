@@ -1,0 +1,50 @@
+[
+    {
+        "artist": "50 Cent",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "TRNSMT 2025",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "50 Cent",
+        "start_date": "2025-07-13",
+        "end_date": "2025-07-13",
+        "venue": "Paris La DA(c)fense Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "50 Cent",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-08",
+        "venue": "Tallinna lauluvA$?ljak (alates 2025)",
+        "city/state": "Tallinn",
+        "country": "Estonia"
+    },
+    {
+        "artist": "50 Cent",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Parklife 2025",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "50 Cent",
+        "start_date": "2025-07-03",
+        "end_date": "2025-07-03",
+        "venue": "Tottenham Hotspur Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "50 Cent",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "Heaton Park",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    }
+]

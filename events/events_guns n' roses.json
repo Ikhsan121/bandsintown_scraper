@@ -1,0 +1,130 @@
+[
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-23",
+        "end_date": "2025-06-23",
+        "venue": "Villa Park",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Visarno Arena",
+        "city/state": "Firenze",
+        "country": "Italy"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "Wembley Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-07-24",
+        "end_date": "2025-07-24",
+        "venue": "Ernst Happel Stadium",
+        "city/state": "Wien",
+        "country": "Austria"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-07-02",
+        "end_date": "2025-07-02",
+        "venue": "GranAY=sen Arena",
+        "city/state": "Trondheim",
+        "country": "Norway"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-12",
+        "venue": "PGE Narodowy",
+        "city/state": "Warszawa",
+        "country": "Poland"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-29",
+        "end_date": "2025-06-29",
+        "venue": "Eskelunden",
+        "city/state": "Viby J",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-07-04",
+        "end_date": "2025-07-04",
+        "venue": "Strawberry Arena",
+        "city/state": "Alvik",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-18",
+        "end_date": "2025-06-18",
+        "venue": "MERKUR SPIEL-ARENA",
+        "city/state": "DA 1/4sseldorf",
+        "country": "Germany"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-06",
+        "end_date": "2025-06-06",
+        "venue": "EstA!dio Cidade de Coimbra",
+        "city/state": "Coimbra",
+        "country": "Portugal"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-07-28",
+        "end_date": "2025-07-28",
+        "venue": "Luxexpo",
+        "city/state": "Luxembourg",
+        "country": "Luxembourg"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-09",
+        "end_date": "2025-06-09",
+        "venue": "Estadi OlAmpic LluAs Companys",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Allianz Arena",
+        "city/state": "Munich",
+        "country": "Germany"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "Park 360",
+        "city/state": "Hradec KrA!lovA(c)",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-05-27",
+        "end_date": "2025-05-27",
+        "venue": "Etihad Arena, Yas Bay",
+        "city/state": "Abu Dhabi",
+        "country": "United Arab Emirates"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "start_date": "2025-07-07",
+        "end_date": "2025-07-07",
+        "venue": "RATINAN STADION",
+        "city/state": "Tampere",
+        "country": "Finland"
+    }
+]

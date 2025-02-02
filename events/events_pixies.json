@@ -1,0 +1,490 @@
+[
+    {
+        "artist": "Pixies",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "Lotto Arena",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "The Orpheum",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-14",
+        "end_date": "2025-05-14",
+        "venue": "O2 Academy Edinburgh",
+        "city/state": "Edinburgh",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-05",
+        "end_date": "2025-11-05",
+        "venue": "EX THEATER ROPPONGI",
+        "city/state": "Minato City",
+        "country": "Japan"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-14",
+        "end_date": "2025-11-14",
+        "venue": "Hordern Pavilion",
+        "city/state": "Moore Park",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-17",
+        "venue": "O2 Academy Brixton",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-17",
+        "end_date": "2025-11-17",
+        "venue": "The Fortitude Music Hall",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-01",
+        "venue": "Palace Theatre",
+        "city/state": "Saint Paul",
+        "country": "MN"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-24",
+        "end_date": "2025-05-24",
+        "venue": "O2 Apollo Manchester",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-22",
+        "venue": "The Fillmore Philadelphia",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-31",
+        "end_date": "2025-07-31",
+        "venue": "Palace Theatre",
+        "city/state": "Saint Paul",
+        "country": "MN"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-04-29",
+        "end_date": "2025-04-29",
+        "venue": "Poppodium 013",
+        "city/state": "Tilburg",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-16",
+        "end_date": "2025-06-16",
+        "venue": "The Van Buren",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Hollywood Palladium",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-28",
+        "end_date": "2025-07-28",
+        "venue": "The Fillmore Detroit",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-27",
+        "end_date": "2025-11-27",
+        "venue": "St James Theatre",
+        "city/state": "Te Aro",
+        "country": "New Zealand"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "MTELUS",
+        "city/state": "Montreal",
+        "country": "QC"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "O2 City Hall Newcastle",
+        "city/state": "Newcastle Upon Tyne",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-16",
+        "end_date": "2025-07-16",
+        "venue": "Brooklyn Paramount",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-15",
+        "end_date": "2025-07-15",
+        "venue": "Brooklyn Paramount",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Encore Theater at Wynn Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-24",
+        "end_date": "2025-11-24",
+        "venue": "Auckland Town Hall",
+        "city/state": "Auckland",
+        "country": "New Zealand"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Encore Theater at Wynn Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-02",
+        "venue": "Palladium KAPln",
+        "city/state": "KALN",
+        "country": "Germany"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-21",
+        "end_date": "2025-05-21",
+        "venue": "Utilita Arena Cardiff",
+        "city/state": "Cardiff",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Hollywood Palladium",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-06",
+        "end_date": "2025-05-06",
+        "venue": "ArkA(c)a Arena",
+        "city/state": "Floirac",
+        "country": "France"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-09",
+        "venue": "Palacio Municipal de Deportes",
+        "city/state": "Granada",
+        "country": "Spain"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "Sagres Campo Pequeno",
+        "city/state": "Lisboa",
+        "country": "Portugal"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-08",
+        "end_date": "2025-07-08",
+        "venue": "MTELUS",
+        "city/state": "Montreal",
+        "country": "QC"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-19",
+        "end_date": "2025-05-19",
+        "venue": "O2 Academy Leeds",
+        "city/state": "Leeds",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-23",
+        "end_date": "2025-11-23",
+        "venue": "Auckland Town Hall",
+        "city/state": "Auckland",
+        "country": "New Zealand"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-25",
+        "venue": "The Anthem",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-16",
+        "end_date": "2025-11-16",
+        "venue": "The Fortitude Music Hall",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-08-22",
+        "end_date": "2025-08-22",
+        "venue": "Rogers Centre",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-19",
+        "end_date": "2025-11-19",
+        "venue": "Festival Hall Melbourne",
+        "city/state": "West Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-01",
+        "end_date": "2025-05-01",
+        "venue": "Tempodrom",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-04-25",
+        "end_date": "2025-04-25",
+        "venue": "TivoliVredenburg",
+        "city/state": "Utrecht",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-17",
+        "end_date": "2025-06-17",
+        "venue": "The Van Buren",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-02",
+        "end_date": "2025-11-02",
+        "venue": "GORILLA HALL OSAKA",
+        "city/state": "Osaka",
+        "country": "Japan"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-23",
+        "end_date": "2025-06-23",
+        "venue": "Paramount Theatre",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-29",
+        "end_date": "2025-07-29",
+        "venue": "The Fillmore Detroit",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-04",
+        "end_date": "2025-11-04",
+        "venue": "EX THEATER ROPPONGI",
+        "city/state": "Minato City",
+        "country": "Japan"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "MGM Music Hall at Fenway",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "MGM Music Hall at Fenway",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-03",
+        "end_date": "2025-05-03",
+        "venue": "Zenith",
+        "city/state": "Munich",
+        "country": "Germany"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-09",
+        "end_date": "2025-11-09",
+        "venue": "Fremantle Prison",
+        "city/state": "Fremantle",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-13",
+        "end_date": "2025-05-13",
+        "venue": "P&J Live",
+        "city/state": "Aberdeen",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-23",
+        "end_date": "2025-07-23",
+        "venue": "The Fillmore Philadelphia",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-24",
+        "end_date": "2025-06-24",
+        "venue": "Paramount Theatre",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-13",
+        "end_date": "2025-11-13",
+        "venue": "Hordern Pavilion",
+        "city/state": "Moore Park",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-04-28",
+        "end_date": "2025-04-28",
+        "venue": "Oosterpoort",
+        "city/state": "Groningen",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-08",
+        "end_date": "2025-11-08",
+        "venue": "Fremantle Prison",
+        "city/state": "Fremantle",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-20",
+        "end_date": "2025-11-20",
+        "venue": "Festival Hall Melbourne",
+        "city/state": "West Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-07",
+        "end_date": "2025-05-07",
+        "venue": "Zenith Nantes Metropole",
+        "city/state": "Saint-Herblain",
+        "country": "France"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-07-26",
+        "end_date": "2025-07-26",
+        "venue": "The Anthem",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-11-26",
+        "end_date": "2025-11-26",
+        "venue": "St James Theatre",
+        "city/state": "Te Aro",
+        "country": "New Zealand"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-16",
+        "end_date": "2025-05-16",
+        "venue": "O2 Academy Brixton",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-04-23",
+        "end_date": "2025-04-23",
+        "venue": "den Atelier",
+        "city/state": "Luxembourg-City",
+        "country": "Luxembourg"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "The Orpheum",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Pixies",
+        "start_date": "2025-05-20",
+        "end_date": "2025-05-20",
+        "venue": "O2 Academy Birmingham",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    }
+]

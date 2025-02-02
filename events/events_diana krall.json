@@ -1,0 +1,210 @@
+[
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-01",
+        "end_date": "2025-10-01",
+        "venue": "Koninklijk Theater Carre",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-09-24",
+        "end_date": "2025-09-24",
+        "venue": "CCH - Congress Center Hamburg Saal 1",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "Botti at Sea '25",
+        "city/state": "Fort Lauderdale",
+        "country": "FL"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-05-22",
+        "end_date": "2025-05-22",
+        "venue": "Paramount Theatre",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-05-04",
+        "end_date": "2025-05-04",
+        "venue": "The Linda Ronstadt Music Hall",
+        "city/state": "Tucson",
+        "country": "AZ"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-09",
+        "end_date": "2025-10-09",
+        "venue": "TivoliVredenburg",
+        "city/state": "Utrecht",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-09-28",
+        "end_date": "2025-09-28",
+        "venue": "Liederhalle",
+        "city/state": "Stuttgart",
+        "country": "Germany"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-05-03",
+        "end_date": "2025-05-03",
+        "venue": "The Plaza Theatre Performing Arts Center",
+        "city/state": "El Paso",
+        "country": "TX"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-12",
+        "end_date": "2025-10-12",
+        "venue": "L'amphithA(c)AC/tre",
+        "city/state": "Lyon",
+        "country": "France"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "Atlanta Symphony Hall",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-06",
+        "end_date": "2025-10-06",
+        "venue": "The Brighton Centre",
+        "city/state": "Brighton",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-08",
+        "end_date": "2025-10-08",
+        "venue": "TivoliVredenburg",
+        "city/state": "Utrecht",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-05-16",
+        "end_date": "2025-05-16",
+        "venue": "The Mountain Winery",
+        "city/state": "Saratoga",
+        "country": "CA"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-09-27",
+        "end_date": "2025-09-27",
+        "venue": "HCC Hannover Congress Centrum",
+        "city/state": "HANNOVER",
+        "country": "Germany"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-07-10",
+        "end_date": "2025-07-10",
+        "venue": "Ryman Auditorium",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-13",
+        "end_date": "2025-10-13",
+        "venue": "Alte Oper",
+        "city/state": "Frankfurt Am Main",
+        "country": "Germany"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Stifel Theatre",
+        "city/state": "St Louis",
+        "country": "MO"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-02",
+        "venue": "Kiva Auditorium at the Albuquerque Convention Center",
+        "city/state": "Albuquerque",
+        "country": "NM"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-06-19",
+        "end_date": "2025-06-19",
+        "venue": "The Lerner Theatre",
+        "city/state": "Elkhart",
+        "country": "IN"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-07-05",
+        "end_date": "2025-07-05",
+        "venue": "Hackensack Meridian Health Theatre at Count Basie Center for the Arts",
+        "city/state": "Red Bank",
+        "country": "NJ"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-14",
+        "end_date": "2025-10-14",
+        "venue": "Georg-Friedrich-HA$?ndel-Halle",
+        "city/state": "Halle",
+        "country": "Germany"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-09-26",
+        "end_date": "2025-09-26",
+        "venue": "Stadsschouwburg Antwerp",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-17",
+        "end_date": "2025-10-17",
+        "venue": "KongresovA(c) centrum-Kongres. sA!l",
+        "city/state": "Praha 4",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-10",
+        "end_date": "2025-10-10",
+        "venue": "Le ColisA(c)e",
+        "city/state": "ROUBAIX",
+        "country": "France"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-05-13",
+        "end_date": "2025-05-13",
+        "venue": "Humphreys Concerts By the Bay",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "Diana Krall",
+        "start_date": "2025-10-04",
+        "end_date": "2025-10-04",
+        "venue": "Symphony Hall",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    }
+]

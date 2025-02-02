@@ -1,0 +1,458 @@
+[
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-19",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-14",
+        "end_date": "2025-09-14",
+        "venue": "State Farm Arena",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-01",
+        "end_date": "2025-06-01",
+        "venue": "Olympiastadion MA 1/4nchen",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-06",
+        "end_date": "2025-09-06",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-18",
+        "end_date": "2025-09-18",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-20",
+        "end_date": "2025-05-20",
+        "venue": "Barclays Arena",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-19",
+        "end_date": "2025-05-19",
+        "venue": "Barclays Arena",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-04",
+        "end_date": "2025-06-04",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-25",
+        "end_date": "2025-06-25",
+        "venue": "Anfield Stadium",
+        "city/state": "Liverpool",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-03",
+        "end_date": "2025-06-03",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-12",
+        "end_date": "2025-05-12",
+        "venue": "Movistar Arena",
+        "city/state": "City Center",
+        "country": "Spain"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-08",
+        "end_date": "2025-10-08",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-15",
+        "end_date": "2025-05-15",
+        "venue": "LDLC Arena",
+        "city/state": "Lyon",
+        "country": "France"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-28",
+        "end_date": "2025-05-28",
+        "venue": "O2 arena",
+        "city/state": "Praha 9",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-07",
+        "end_date": "2025-06-07",
+        "venue": "Ippodromo Snai La Maura",
+        "city/state": "Milano",
+        "country": "Italy"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Wembley Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "Aviva Stadium",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-11",
+        "end_date": "2025-05-11",
+        "venue": "Movistar Arena",
+        "city/state": "City Center",
+        "country": "Spain"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-04-04",
+        "end_date": "2025-04-04",
+        "venue": "Spark Arena",
+        "city/state": "Auckland",
+        "country": "New Zealand"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-27",
+        "end_date": "2025-05-27",
+        "venue": "O2 arena",
+        "city/state": "Praha 9",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "Paris La DA(c)fense Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Wembley Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-02",
+        "end_date": "2025-09-02",
+        "venue": "Scotiabank Arena",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-24",
+        "end_date": "2025-06-24",
+        "venue": "Anfield Stadium",
+        "city/state": "Liverpool",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-20",
+        "end_date": "2025-09-20",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-16",
+        "end_date": "2025-10-16",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-17",
+        "end_date": "2025-03-17",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-12",
+        "end_date": "2025-10-12",
+        "venue": "Chase Center",
+        "city/state": "San Francisco",
+        "country": "CA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-09",
+        "end_date": "2025-09-09",
+        "venue": "TD Garden",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-11",
+        "end_date": "2025-10-11",
+        "venue": "Chase Center",
+        "city/state": "San Francisco",
+        "country": "CA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-01",
+        "end_date": "2025-09-01",
+        "venue": "Scotiabank Arena",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-31",
+        "end_date": "2025-05-31",
+        "venue": "Olympiastadion MA 1/4nchen",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-04",
+        "end_date": "2025-10-04",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-10",
+        "end_date": "2025-09-10",
+        "venue": "TD Garden",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-16",
+        "end_date": "2025-05-16",
+        "venue": "LDLC Arena",
+        "city/state": "Lyon",
+        "country": "France"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-26",
+        "end_date": "2025-09-26",
+        "venue": "Kaseya Center",
+        "city/state": "Miami",
+        "country": "FL"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-30",
+        "end_date": "2025-09-30",
+        "venue": "American Airlines Center",
+        "city/state": "Dallas",
+        "country": "TX"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-05",
+        "end_date": "2025-10-05",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-04-02",
+        "end_date": "2025-04-02",
+        "venue": "Spark Arena",
+        "city/state": "Auckland",
+        "country": "New Zealand"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-17",
+        "end_date": "2025-09-17",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-20",
+        "end_date": "2025-03-20",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-21",
+        "end_date": "2025-09-21",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-13",
+        "end_date": "2025-09-13",
+        "venue": "State Farm Arena",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-07",
+        "end_date": "2025-10-07",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-01",
+        "end_date": "2025-10-01",
+        "venue": "American Airlines Center",
+        "city/state": "Dallas",
+        "country": "TX"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-10-15",
+        "end_date": "2025-10-15",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-23",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-27",
+        "end_date": "2025-09-27",
+        "venue": "Kaseya Center",
+        "city/state": "Miami",
+        "country": "FL"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-06-11",
+        "end_date": "2025-06-11",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-09-05",
+        "end_date": "2025-09-05",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Dua Lipa",
+        "start_date": "2025-05-24",
+        "end_date": "2025-05-24",
+        "venue": "Paris La DA(c)fense Arena",
+        "city/state": "Paris",
+        "country": "France"
+    }
+]

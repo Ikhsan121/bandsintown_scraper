@@ -1,0 +1,154 @@
+[
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-17",
+        "end_date": "2025-10-17",
+        "venue": "Rockhal",
+        "city/state": "Esch-sur-Alzette",
+        "country": "Luxembourg"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-13",
+        "end_date": "2025-11-13",
+        "venue": "Campo Pequeno",
+        "city/state": "Lisbon",
+        "country": "Portugal"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-28",
+        "end_date": "2025-10-28",
+        "venue": "Spodek",
+        "city/state": "Katowice",
+        "country": "Poland"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-18",
+        "end_date": "2025-10-18",
+        "venue": "Poppodium 013",
+        "city/state": "Tilburg",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-08",
+        "end_date": "2025-11-08",
+        "venue": "Partille Arena",
+        "city/state": "Partille",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-03",
+        "end_date": "2025-11-03",
+        "venue": "Sentrum Scene",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-04",
+        "end_date": "2025-11-04",
+        "venue": "Sentrum Scene",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-25",
+        "end_date": "2025-10-25",
+        "venue": "Tiposbet Arena",
+        "city/state": "Zvolen",
+        "country": "Slovakia"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-26",
+        "end_date": "2025-10-26",
+        "venue": "Papp LA!szlA3 SportarA(c)na - PA!holy bA(c)rlAk parkolA!s",
+        "city/state": "Budapest",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-19",
+        "end_date": "2025-11-19",
+        "venue": "Forum",
+        "city/state": "Assago",
+        "country": "Italy"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-06",
+        "end_date": "2025-11-06",
+        "venue": "Helsinki Ice Hall",
+        "city/state": "Helsinki",
+        "country": "Finland"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-20",
+        "end_date": "2025-11-20",
+        "venue": "THE HALL",
+        "city/state": "DA 1/4bendorf",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-31",
+        "end_date": "2025-10-31",
+        "venue": "RuhrCongress Bochum",
+        "city/state": "Bochum",
+        "country": "Germany"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-22",
+        "end_date": "2025-11-22",
+        "venue": "Hanns-Martin-Schleyer-Halle",
+        "city/state": "Stuttgart",
+        "country": "Germany"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-22",
+        "end_date": "2025-10-22",
+        "venue": "Zenith Paris - La Villette",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-01",
+        "end_date": "2025-11-01",
+        "venue": "Barclays Arena",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-20",
+        "end_date": "2025-10-20",
+        "venue": "Eventim Apollo",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-10-24",
+        "end_date": "2025-10-24",
+        "venue": "O2 Arena",
+        "city/state": "Prague",
+        "country": "Czech Republic"
+    },
+    {
+        "artist": "Helloween",
+        "start_date": "2025-11-15",
+        "end_date": "2025-11-15",
+        "venue": "La Cubierta De LeganA(c)s",
+        "city/state": "LeganA(c)s",
+        "country": "Spain"
+    }
+]

@@ -1,0 +1,346 @@
+[
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "Evenemententerrein Weert-Noord",
+        "city/state": "Weert",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-18",
+        "end_date": "2025-04-18",
+        "venue": "Etihad Park, Yas Drive",
+        "city/state": "Abu Dhabi",
+        "country": "United Arab Emirates"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-05",
+        "end_date": "2025-02-05",
+        "venue": "Tempodrom",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-01",
+        "venue": "The Salt Shed",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "HISTORY",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "The Wiltern",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-12",
+        "end_date": "2025-04-12",
+        "venue": "The Met",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "Hoe Park",
+        "city/state": "Plymouth",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "The SSE Arena, Belfast",
+        "city/state": "Belfast",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-07-13",
+        "end_date": "2025-07-13",
+        "venue": "TRNSMT 2025",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-31",
+        "end_date": "2025-03-31",
+        "venue": "Palace Theatre",
+        "city/state": "Saint Paul",
+        "country": "MN"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-11",
+        "end_date": "2025-04-11",
+        "venue": "The Anthem",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-15",
+        "end_date": "2025-02-15",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-16",
+        "end_date": "2025-02-16",
+        "venue": "bp pulse LIVE",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Belsonic",
+        "city/state": "Belfast",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Paramount Theatre",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-04",
+        "end_date": "2025-04-04",
+        "venue": "L'Olympia",
+        "city/state": "MontrA(c)al",
+        "country": "QC"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-17",
+        "end_date": "2025-06-17",
+        "venue": "Westonbirt Arboretum",
+        "city/state": "Westonbirt",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-19",
+        "end_date": "2025-06-19",
+        "venue": "Musgrave Park",
+        "city/state": "Cork",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "Mitsubishi Electric HALLE",
+        "city/state": "Dusseldorf",
+        "country": "Germany"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "Utilita Arena Cardiff",
+        "city/state": "Cardiff",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-25",
+        "end_date": "2025-02-25",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "The SSE Arena, Belfast",
+        "city/state": "Belfast",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "Zenith",
+        "city/state": "Munich",
+        "country": "Germany"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "Scarborough Open Air Theatre",
+        "city/state": "Scarborough",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "The Union Event Center",
+        "city/state": "Salt Lake City",
+        "country": "UT"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-05",
+        "end_date": "2025-04-05",
+        "venue": "MGM Music Hall at Fenway",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Plymouth Hoe",
+        "city/state": "Plymouth",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "Cannock Chase Forest",
+        "city/state": "Rugeley",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Paramount Theatre",
+        "city/state": "Denver",
+        "country": "CO"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-19",
+        "end_date": "2025-02-19",
+        "venue": "Connexin Live",
+        "city/state": "Hull",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-24",
+        "venue": "Fox Theater",
+        "city/state": "Oakland",
+        "country": "CA"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-01",
+        "venue": "THE HALL",
+        "city/state": "DA 1/4bendorf",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-25",
+        "venue": "The Wiltern",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-04-08",
+        "end_date": "2025-04-08",
+        "venue": "Brooklyn Paramount",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-21",
+        "venue": "Queen Elizabeth Theatre",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-02",
+        "end_date": "2025-02-02",
+        "venue": "Jahrhunderthalle",
+        "city/state": "Frankfurt Am Main",
+        "country": "Germany"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-02-09",
+        "end_date": "2025-02-09",
+        "venue": "Forest National",
+        "city/state": "Bruxelles",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Delamere Forest",
+        "city/state": "Frodsham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Snow Patrol",
+        "start_date": "2025-07-24",
+        "end_date": "2025-07-24",
+        "venue": "Henham Park",
+        "city/state": "Southwold",
+        "country": "United Kingdom"
+    }
+]

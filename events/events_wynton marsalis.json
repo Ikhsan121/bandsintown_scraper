@@ -1,0 +1,346 @@
+[
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-24",
+        "end_date": "2025-06-24",
+        "venue": "Confederation Park",
+        "city/state": "Ottawa",
+        "country": "ON"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-05",
+        "end_date": "2025-04-05",
+        "venue": "MA 1/4pa Budapest",
+        "city/state": "Budapest",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Victoria Hall Geneve",
+        "city/state": "Geneve",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-02",
+        "end_date": "2025-04-02",
+        "venue": "Wiener Konzerthaus",
+        "city/state": "Wien",
+        "country": "Austria"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-29",
+        "end_date": "2025-05-29",
+        "venue": "The John G. Shedd Institute for the Arts",
+        "city/state": "Eugene",
+        "country": "OR"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "Ensemble Arts Philly",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "Wiener Konzerthaus",
+        "city/state": "Wien",
+        "country": "Austria"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-16",
+        "end_date": "2025-06-16",
+        "venue": "The Kennedy Center",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-01",
+        "venue": "The Appel Room",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Frederick P. Rose Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-25",
+        "end_date": "2025-06-25",
+        "venue": "Place des Arts - Maison Symphonique",
+        "city/state": "MontrA(c)al",
+        "country": "QC"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "The Appel Room",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-22",
+        "end_date": "2025-05-22",
+        "venue": "Chandler Center for the Arts",
+        "city/state": "Chandler",
+        "country": "AZ"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-16",
+        "venue": "Barbican Centre",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-24",
+        "end_date": "2025-05-24",
+        "venue": "Paramount Theatre-Oakland",
+        "city/state": "Oakland",
+        "country": "CA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Frederick P. Rose Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-21",
+        "venue": "Tonhalle ZA 1/4rich",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "BOZAR",
+        "city/state": "Bruxelles",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-23",
+        "venue": "Philharmonie Luxembourg",
+        "city/state": "Luxembourg",
+        "country": "Luxembourg"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "Frederick P. Rose Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-11",
+        "end_date": "2025-03-11",
+        "venue": "National Concert Hall",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-04",
+        "end_date": "2025-04-04",
+        "venue": "Wiener Konzerthaus",
+        "city/state": "Wien",
+        "country": "Austria"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-31",
+        "end_date": "2025-03-31",
+        "venue": "Gasteig HP8",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-24",
+        "venue": "Theater und Philharmonie Essen (TUP)",
+        "city/state": "Essen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "Frederick P. Rose Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-17",
+        "venue": "Arlington Theatre",
+        "city/state": "Santa Barbara",
+        "country": "CA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-28",
+        "end_date": "2025-05-28",
+        "venue": "Paramount Theatre",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-11",
+        "end_date": "2025-04-11",
+        "venue": "Chrysler Hall",
+        "city/state": "Norfolk",
+        "country": "VA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-24",
+        "end_date": "2025-04-24",
+        "venue": "Tilles Centeras Concert Hall",
+        "city/state": "Brookville",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-18",
+        "end_date": "2025-05-18",
+        "venue": "Balboa Theatre",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "Bethel Woods Center for the Arts",
+        "city/state": "Bethel",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "BOZAR",
+        "city/state": "Bruxelles",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-30",
+        "end_date": "2025-05-30",
+        "venue": "Arlene Schnitzer Concert Hall",
+        "city/state": "Portland",
+        "country": "OR"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Frederick P. Rose Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Kodak Hall",
+        "city/state": "Rochester",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-15",
+        "venue": "Barbican Centre",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Massey Hall",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-20",
+        "end_date": "2025-05-20",
+        "venue": "Irvine Barclay Theatre",
+        "city/state": "Irvine",
+        "country": "CA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-05-25",
+        "end_date": "2025-05-25",
+        "venue": "Luther Burbank Center for the Arts",
+        "city/state": "Santa Rosa",
+        "country": "CA"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-18",
+        "end_date": "2025-03-18",
+        "venue": "Het Concertgebouw",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-04-25",
+        "end_date": "2025-04-25",
+        "venue": "Frederick P. Rose Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-01",
+        "venue": "Hill Auditorium",
+        "city/state": "Ann Arbor",
+        "country": "MI"
+    },
+    {
+        "artist": "Wynton Marsalis",
+        "start_date": "2025-03-17",
+        "end_date": "2025-03-17",
+        "venue": "Het Concertgebouw",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    }
+]

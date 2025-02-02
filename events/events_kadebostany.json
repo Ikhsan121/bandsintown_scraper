@@ -1,0 +1,114 @@
+[
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-05",
+        "end_date": "2025-02-05",
+        "venue": "Kesselhaus (Schlachthof)",
+        "city/state": "Wiesbaden",
+        "country": "Germany"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-04-02",
+        "end_date": "2025-04-02",
+        "venue": "Orangerie",
+        "city/state": "Brussels",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-03",
+        "end_date": "2025-02-03",
+        "venue": "Club Bahnhof Ehrenfeld",
+        "city/state": "Cologne",
+        "country": "Germany"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "Sala Villanos",
+        "city/state": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-01",
+        "venue": "Trabendo",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-01",
+        "venue": "Bahnhof Pauli",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Locomotiv Club",
+        "city/state": "Bologna",
+        "country": "Italy"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "Melkweg",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "SECOND SHOW ADDED! Kadebostany Live, Locomotiv Club, Bologna",
+        "city/state": "Bologna",
+        "country": "Italy"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-02",
+        "end_date": "2025-02-02",
+        "venue": "Gretchen",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-06",
+        "end_date": "2025-02-06",
+        "venue": "Ampere / Muffatwerk",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-01",
+        "venue": "Village Underground Lisboa",
+        "city/state": "Lisboa",
+        "country": "Portugal"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "THE BLACK LAB",
+        "city/state": "Wasquehal",
+        "country": "France"
+    },
+    {
+        "artist": "Kadebostany",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Oslo Hackney",
+        "city/state": "London",
+        "country": "United Kingdom"
+    }
+]

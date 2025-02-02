@@ -1,0 +1,18 @@
+[
+    {
+        "artist": "Stevie Nicks",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Ford Field",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Stevie Nicks",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-08",
+        "venue": "MetLife Stadium",
+        "city/state": "East Rutherford",
+        "country": "NJ"
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Festi'neuch",
+        "city/state": "NeuchAC/tel",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-06-06",
+        "end_date": "2025-06-06",
+        "venue": "La Cooperative de Mai",
+        "city/state": "Clermont-Ferrand",
+        "country": "France"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "Die Kantine",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "X-TRA",
+        "city/state": "Zurich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-05",
+        "venue": "O2 Shepherds Bush Empire",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-25",
+        "end_date": "2025-02-25",
+        "venue": "Progresja",
+        "city/state": "Warsaw",
+        "country": "Poland"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-11",
+        "end_date": "2025-04-11",
+        "venue": "The Paramount",
+        "city/state": "Huntington",
+        "country": "NY"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-07-02",
+        "end_date": "2025-07-02",
+        "venue": "Pause Guitare 2025",
+        "city/state": "Albi",
+        "country": "France"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-15",
+        "end_date": "2025-04-15",
+        "venue": "HISTORY",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "Razzmatazz 1",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "The Warfield",
+        "city/state": "San Francisco",
+        "country": "CA"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Commodore Ballroom",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-12",
+        "end_date": "2025-04-12",
+        "venue": "Orpheum Theatre",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-15",
+        "end_date": "2025-02-15",
+        "venue": "Sala PelAcano",
+        "city/state": "A CoruA+-a",
+        "country": "Spain"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "Zuiderparktheater",
+        "city/state": "Den Haag",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "La Cigale",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-25",
+        "venue": "Commodore Ballroom",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-20",
+        "venue": "Fabrique",
+        "city/state": "Milan",
+        "country": "Italy"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "The Midland Theatre",
+        "city/state": "Kansas City",
+        "country": "MO"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "Evenemententerrein Weert-Noord",
+        "city/state": "Weert",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-01",
+        "venue": "Boulder Theater",
+        "city/state": "Boulder",
+        "country": "CO"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-08-13",
+        "end_date": "2025-08-13",
+        "venue": "Galvanizers Yard",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-14",
+        "end_date": "2025-04-14",
+        "venue": "MTELUS",
+        "city/state": "Montreal",
+        "country": "QC"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-17",
+        "end_date": "2025-04-17",
+        "venue": "SanSan Festival 2025",
+        "city/state": "Benicasim",
+        "country": "Spain"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-05",
+        "end_date": "2025-04-05",
+        "venue": "The Vic Theatre",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-17",
+        "end_date": "2025-02-17",
+        "venue": "Sala La Riviera",
+        "city/state": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-14",
+        "end_date": "2025-02-14",
+        "venue": "Aula Magna",
+        "city/state": "Lisboa",
+        "country": "Portugal"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-01",
+        "venue": "De Roma",
+        "city/state": "Antwerp",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-31",
+        "end_date": "2025-03-31",
+        "venue": "The Complex",
+        "city/state": "Salt Lake City",
+        "country": "UT"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-03",
+        "venue": "Paradiso",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "The Wiltern",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-05-30",
+        "end_date": "2025-05-30",
+        "venue": "Stadtpark-Open-Air-BA 1/4hne",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-24",
+        "venue": "Showbox SoDo",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-08-30",
+        "end_date": "2025-08-30",
+        "venue": "Auditorium Parco della Musica Ennio Morricone",
+        "city/state": "Rome",
+        "country": "Italy"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "Cafe Muffathalle",
+        "city/state": "Munich",
+        "country": "Germany"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-08",
+        "end_date": "2025-04-08",
+        "venue": "The Fillmore Philadelphia",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-08-28",
+        "end_date": "2025-08-28",
+        "venue": "Villa Ca' Cornaro",
+        "city/state": "Romano",
+        "country": "Italy"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-08-29",
+        "end_date": "2025-08-29",
+        "venue": "Villa Torlonia - Parco Poesia Pascoli",
+        "city/state": "San Mauro Pascoli",
+        "country": "Italy"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-07",
+        "end_date": "2025-04-07",
+        "venue": "Anthem",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-10",
+        "end_date": "2025-04-10",
+        "venue": "Brooklyn Paramount",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "Barrowland Ballroom",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-04-04",
+        "end_date": "2025-04-04",
+        "venue": "The Fillmore Minneapolis",
+        "city/state": "Minneapolis",
+        "country": "MN"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-02-24",
+        "end_date": "2025-02-24",
+        "venue": "Huxleys Neue Welt",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-06",
+        "venue": "O2 Shepherds Bush Empire",
+        "city/state": "London",
+        "country": "United Kingdom"
+    }
+]

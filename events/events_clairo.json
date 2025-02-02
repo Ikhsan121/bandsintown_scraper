@@ -1,0 +1,98 @@
+[
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "Salle Pleyel",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-03",
+        "venue": "3Olympia Theatre",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "Salle Pleyel",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-20",
+        "end_date": "2025-03-20",
+        "venue": "O2 Apollo Manchester",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-16",
+        "venue": "O2 Academy Glasgow",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-17",
+        "end_date": "2025-03-17",
+        "venue": "O2 Academy Glasgow",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-07-05",
+        "end_date": "2025-07-05",
+        "venue": "Hyde Park",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-13",
+        "venue": "Eventim Apollo",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-06-08",
+        "end_date": "2025-06-08",
+        "venue": "The Governors Ball 2025",
+        "city/state": "Queens",
+        "country": "New York"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-14",
+        "venue": "Eventim Apollo",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-04",
+        "end_date": "2025-03-04",
+        "venue": "3Olympia Theatre",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Clairo",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-19",
+        "venue": "O2 Apollo Manchester",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    }
+]

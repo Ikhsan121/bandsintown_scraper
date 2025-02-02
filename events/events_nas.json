@@ -1,0 +1,26 @@
+[
+    {
+        "artist": "Nas",
+        "start_date": "2025-02-05",
+        "end_date": "2025-02-05",
+        "venue": "Encore Theater at Wynn Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Nas",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Encore Theater at Wynn Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Nas",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "Encore Theater at Wynn Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    }
+]

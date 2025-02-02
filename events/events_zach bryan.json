@@ -1,0 +1,82 @@
+[
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "MetLife Stadium",
+        "city/state": "East Rutherford",
+        "country": "NJ"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-07-20",
+        "end_date": "2025-07-20",
+        "venue": "MetLife Stadium",
+        "city/state": "East Rutherford",
+        "country": "NJ"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "Phoenix Park",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Phoenix Park",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "Stagecoach 2025",
+        "city/state": "Indio",
+        "country": "CA"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "MetLife Stadium",
+        "city/state": "East Rutherford",
+        "country": "NJ"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-06-29",
+        "end_date": "2025-06-29",
+        "venue": "Hyde Park",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-06-28",
+        "end_date": "2025-06-28",
+        "venue": "Hyde Park",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Phoenix Park",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Zach Bryan",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-15",
+        "venue": "Golden Gate Park",
+        "city/state": "San Francisco",
+        "country": "CA"
+    }
+]

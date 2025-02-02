@@ -1,0 +1,58 @@
+[
+    {
+        "artist": "Norah Jones",
+        "start_date": "2025-05-31",
+        "end_date": "2025-05-31",
+        "venue": "Popload Festival 2025",
+        "city/state": "SAPSo Paulo",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Norah Jones",
+        "start_date": "2025-06-02",
+        "end_date": "2025-06-02",
+        "venue": "Movistar Arena",
+        "city/state": "Buenos Aires",
+        "country": "Argentina"
+    },
+    {
+        "artist": "Norah Jones",
+        "start_date": "2025-06-04",
+        "end_date": "2025-06-04",
+        "venue": "Movistar Arena",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Norah Jones",
+        "start_date": "2025-05-29",
+        "end_date": "2025-05-29",
+        "venue": "Teatro Positivo",
+        "city/state": "Curitiba",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Norah Jones",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "Belly Up Aspen",
+        "city/state": "Aspen",
+        "country": "CO"
+    },
+    {
+        "artist": "Norah Jones",
+        "start_date": "2025-02-17",
+        "end_date": "2025-02-17",
+        "venue": "Belly Up Aspen",
+        "city/state": "Aspen",
+        "country": "CO"
+    },
+    {
+        "artist": "Norah Jones",
+        "start_date": "2025-05-27",
+        "end_date": "2025-05-27",
+        "venue": "Vivo Rio",
+        "city/state": "Rio De Janeiro",
+        "country": "Brazil"
+    }
+]

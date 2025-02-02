@@ -1,0 +1,26 @@
+[
+    {
+        "artist": "Maxwell",
+        "start_date": "2025-07-06",
+        "end_date": "2025-07-06",
+        "venue": "Love Supreme Jazz Festival",
+        "city/state": "Glynde",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Maxwell",
+        "start_date": "2025-08-22",
+        "end_date": "2025-08-22",
+        "venue": "The Aretha Franklin Amphitheatre",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Maxwell",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-12",
+        "venue": "North Sea Jazz Festival 2025",
+        "city/state": "Rotterdam",
+        "country": "Netherlands"
+    }
+]

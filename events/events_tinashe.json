@@ -1,0 +1,58 @@
+[
+    {
+        "artist": "Tinashe",
+        "start_date": "2025-02-13",
+        "end_date": "2025-02-13",
+        "venue": "MATCH MY FREAK WORLD TOUR",
+        "city/state": "KA,benhavn",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Tinashe",
+        "start_date": "2025-02-23",
+        "end_date": "2025-02-23",
+        "venue": "MATCH MY FREAK WORLD TOUR",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tinashe",
+        "start_date": "2025-02-16",
+        "end_date": "2025-02-16",
+        "venue": "MATCH MY FREAK WORLD TOUR",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Tinashe",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "MATCH MY FREAK WORLD TOUR",
+        "city/state": "Utrecht",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Tinashe",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "AlysA(c)e Montmartre",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Tinashe",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-20",
+        "venue": "MATCH MY FREAK WORLD TOUR",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Tinashe",
+        "start_date": "2025-02-25",
+        "end_date": "2025-02-25",
+        "venue": "MATCH MY FREAK WORLD TOUR",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    }
+]

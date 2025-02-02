@@ -1,0 +1,234 @@
+[
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "PGE Narodowy",
+        "city/state": "Warszawa",
+        "country": "Poland"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-05-31",
+        "end_date": "2025-05-31",
+        "venue": "Stadion Letzigrund",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-25",
+        "venue": "Tottenham Hotspur Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-21",
+        "end_date": "2025-07-21",
+        "venue": "Deutsche Bank Park",
+        "city/state": "Frankfurt am Main",
+        "country": "Germany"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-26",
+        "end_date": "2025-07-26",
+        "venue": "Tottenham Hotspur Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-07",
+        "end_date": "2025-06-07",
+        "venue": "Dahls Arena",
+        "city/state": "Trondheim",
+        "country": "Norway"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "Johan Cruijff ArenA",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-18",
+        "end_date": "2025-06-18",
+        "venue": "Stadio Euganeo",
+        "city/state": "Padova",
+        "country": "Italy"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-05",
+        "end_date": "2025-06-05",
+        "venue": "Tele2 Arena",
+        "city/state": "Johanneshov",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-14",
+        "end_date": "2025-07-14",
+        "venue": "RefshaleA,en",
+        "city/state": "KA,benhavn K",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-09",
+        "end_date": "2025-06-09",
+        "venue": "Prague LetAany Airport",
+        "city/state": "HlavnA mAsto Praha",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-19",
+        "end_date": "2025-06-19",
+        "venue": "Stadio Euganeo",
+        "city/state": "Padova",
+        "country": "Italy"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-01",
+        "end_date": "2025-07-01",
+        "venue": "Estadi OlAmpic LluAs Companys",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-05-27",
+        "end_date": "2025-05-27",
+        "venue": "Ippodromo Snai La Maura",
+        "city/state": "Milano",
+        "country": "Italy"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-16",
+        "end_date": "2025-07-16",
+        "venue": "Volksparkstadion",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-03",
+        "end_date": "2025-06-03",
+        "venue": "Tallinna lauluvA$?ljak (alates 2025)",
+        "city/state": "Tallinn",
+        "country": "Estonia"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Diego Armando Maradona Stadium",
+        "city/state": "Napoli",
+        "country": "Italy"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-11",
+        "end_date": "2025-06-11",
+        "venue": "Prague LetAany Airport",
+        "city/state": "HlavnA mAsto Praha",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-06",
+        "end_date": "2025-07-06",
+        "venue": "Stade de France",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-03",
+        "end_date": "2025-07-03",
+        "venue": "Groupama Stadium",
+        "city/state": "DA(c)cines-Charpieu",
+        "country": "France"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-05",
+        "end_date": "2025-07-05",
+        "venue": "Stade de France",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "PGE Narodowy",
+        "city/state": "Warszawa",
+        "country": "Poland"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "PuskA!s ArA(c)na",
+        "city/state": "Budapest",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-05-29",
+        "end_date": "2025-05-29",
+        "venue": "Stadion Letzigrund",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-23",
+        "end_date": "2025-07-23",
+        "venue": "Stade Pierre Mauroy",
+        "city/state": "Villeneuve-d'Ascq",
+        "country": "France"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-12",
+        "venue": "Festivalpark Werchter",
+        "city/state": "Werchter",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "PuskA!s ArA(c)na",
+        "city/state": "Budapest",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "EstA!dio Sport Lisboa e Benfica",
+        "city/state": "Lisboa",
+        "country": "Portugal"
+    },
+    {
+        "artist": "Imagine Dragons",
+        "start_date": "2025-06-28",
+        "end_date": "2025-06-28",
+        "venue": "CAvitas Metropolitano",
+        "city/state": "Madrid",
+        "country": "Spain"
+    }
+]

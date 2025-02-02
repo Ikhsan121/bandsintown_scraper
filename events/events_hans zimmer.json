@@ -1,0 +1,386 @@
+[
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-21",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-02-06",
+        "end_date": "2025-02-06",
+        "venue": "Barclays Center",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-12",
+        "end_date": "2025-11-12",
+        "venue": "MVM Dome",
+        "city/state": "Budapest",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-02-02",
+        "end_date": "2025-02-02",
+        "venue": "Bridgestone Arena",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-18",
+        "end_date": "2025-10-18",
+        "venue": "Olympiastadion MA 1/4nchen",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-24",
+        "end_date": "2025-11-24",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-09",
+        "end_date": "2025-11-09",
+        "venue": "Wiener Stadthalle Halle D",
+        "city/state": "Wien",
+        "country": "Austria"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-24",
+        "venue": "LDLC Arena",
+        "city/state": "Lyon",
+        "country": "France"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-23",
+        "end_date": "2025-10-23",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-26",
+        "end_date": "2025-10-26",
+        "venue": "Barclays Arena",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-15",
+        "end_date": "2025-11-15",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-14",
+        "end_date": "2025-10-14",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-18",
+        "end_date": "2025-11-18",
+        "venue": "ING Arena",
+        "city/state": "Bruxelles",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-27",
+        "end_date": "2025-11-27",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-05-31",
+        "end_date": "2025-05-31",
+        "venue": "Etihad Arena",
+        "city/state": "Abu Dhabi",
+        "country": "United Arab Emirates"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-27",
+        "end_date": "2025-10-27",
+        "venue": "Barclays Arena",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "Avicii Arena",
+        "city/state": "Stockholm",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-16",
+        "end_date": "2025-11-16",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-19",
+        "end_date": "2025-11-19",
+        "venue": "Rotterdam Ahoy",
+        "city/state": "Rotterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-12",
+        "end_date": "2025-10-12",
+        "venue": "Rudolf Weber-ARENA",
+        "city/state": "Oberhausen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-12-01",
+        "end_date": "2025-12-01",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-19",
+        "end_date": "2025-10-19",
+        "venue": "Olympiastadion MA 1/4nchen",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "CFG Bank Arena",
+        "city/state": "Baltimore",
+        "country": "MD"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-23",
+        "end_date": "2025-11-23",
+        "venue": "First Direct Arena",
+        "city/state": "Leeds",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-12",
+        "venue": "ZAG Arena",
+        "city/state": "Hannover",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-27",
+        "end_date": "2025-03-27",
+        "venue": "Palau Sant Jordi",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Roig Arena",
+        "city/state": "ValA\"ncia d'Aneu",
+        "country": "Spain"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-21",
+        "end_date": "2025-11-21",
+        "venue": "Paris La DA(c)fense Arena",
+        "city/state": "Nanterre",
+        "country": "France"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-29",
+        "end_date": "2025-10-29",
+        "venue": "Hanns-Martin-Schleyer-Halle",
+        "city/state": "Stuttgart",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-06",
+        "end_date": "2025-11-06",
+        "venue": "SAP Arena",
+        "city/state": "Mannheim",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-10",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-24",
+        "end_date": "2025-10-24",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-11",
+        "end_date": "2025-11-11",
+        "venue": "O2 arena",
+        "city/state": "Praha 9",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-30",
+        "end_date": "2025-10-30",
+        "venue": "Hanns-Martin-Schleyer-Halle",
+        "city/state": "Stuttgart",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-03",
+        "end_date": "2025-11-03",
+        "venue": "Festhalle",
+        "city/state": "Frankfurt",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-19",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "WiZink Center",
+        "city/state": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-12-02",
+        "end_date": "2025-12-02",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "Nationwide Arena",
+        "city/state": "Columbus",
+        "country": "OH"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-15",
+        "end_date": "2025-10-15",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-01",
+        "end_date": "2025-11-01",
+        "venue": "PSD BANK DOME",
+        "city/state": "DA 1/4sseldorf",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-06",
+        "venue": "Scandinavium",
+        "city/state": "Goteborg",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-30",
+        "end_date": "2025-11-30",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-26",
+        "end_date": "2025-11-26",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-10-21",
+        "end_date": "2025-10-21",
+        "venue": "QUARTERBACK Immobilien ARENA",
+        "city/state": "Leipzig",
+        "country": "Germany"
+    },
+    {
+        "artist": "Hans Zimmer",
+        "start_date": "2025-11-08",
+        "end_date": "2025-11-08",
+        "venue": "Wiener Stadthalle Halle D",
+        "city/state": "Wien",
+        "country": "Austria"
+    }
+]

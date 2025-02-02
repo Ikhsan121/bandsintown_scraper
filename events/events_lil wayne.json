@@ -1,0 +1,66 @@
+[
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-02-23",
+        "end_date": "2025-02-23",
+        "venue": "Spectrum Center",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-15",
+        "venue": "Lenovo Center",
+        "city/state": "Raleigh",
+        "country": "NC"
+    },
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-06",
+        "venue": "Donald L. Tucker Civic Center",
+        "city/state": "Tallahassee",
+        "country": "FL"
+    },
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-03-14",
+        "end_date": "2025-03-14",
+        "venue": "Chartway Arena",
+        "city/state": "Norfolk",
+        "country": "VA"
+    },
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Amalie Arena",
+        "city/state": "Tampa",
+        "country": "FL"
+    },
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Gainbridge Fieldhouse",
+        "city/state": "Indianapolis",
+        "country": "IN"
+    },
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "Legacy Arena at the BJCC",
+        "city/state": "Birmingham",
+        "country": "AL"
+    },
+    {
+        "artist": "Lil Wayne",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "Enterprise Center",
+        "city/state": "St Louis",
+        "country": "MO"
+    }
+]

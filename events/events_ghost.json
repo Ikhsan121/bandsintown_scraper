@@ -1,0 +1,434 @@
+[
+    {
+        "artist": "GHOST",
+        "start_date": "2025-09-25",
+        "end_date": "2025-09-25",
+        "venue": "Palacio de los Deportes",
+        "city/state": "Mexico City",
+        "country": "Mexico"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-20",
+        "end_date": "2025-05-20",
+        "venue": "Tampereen monitoimiareena",
+        "city/state": "Tampere",
+        "country": "Finland"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-09",
+        "end_date": "2025-08-09",
+        "venue": "MGM Grand Garden Arena",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-24",
+        "end_date": "2025-05-24",
+        "venue": "Oslo Spektrum Arena",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-15",
+        "end_date": "2025-04-15",
+        "venue": "AO Arena",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-03",
+        "end_date": "2025-08-03",
+        "venue": "CHI Health Center Omaha",
+        "city/state": "Omaha",
+        "country": "NE"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-01",
+        "venue": "Allstate Arena",
+        "city/state": "Rosemont",
+        "country": "IL"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "CFG Bank Arena",
+        "city/state": "Baltimore",
+        "country": "MD"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-13",
+        "end_date": "2025-07-13",
+        "venue": "Kaseya Center",
+        "city/state": "Miami",
+        "country": "FL"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-15",
+        "venue": "Dickies Arena",
+        "city/state": "Fort Worth",
+        "country": "TX"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-30",
+        "end_date": "2025-07-30",
+        "venue": "Enterprise Center",
+        "city/state": "St Louis",
+        "country": "MO"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-28",
+        "end_date": "2025-07-28",
+        "venue": "Van Andel Arena",
+        "city/state": "Grand Rapids",
+        "country": "MI"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-12",
+        "venue": "Amalie Arena",
+        "city/state": "Tampa",
+        "country": "FL"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-15",
+        "end_date": "2025-05-15",
+        "venue": "ZAG Arena",
+        "city/state": "Hannover",
+        "country": "Germany"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-24",
+        "end_date": "2025-04-24",
+        "venue": "Olympiahalle",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "State Farm Arena",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-23",
+        "end_date": "2025-04-23",
+        "venue": "Festhalle",
+        "city/state": "Frankfurt",
+        "country": "Germany"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-15",
+        "end_date": "2025-07-15",
+        "venue": "Lenovo Center",
+        "city/state": "Raleigh",
+        "country": "NC"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-07",
+        "end_date": "2025-08-07",
+        "venue": "Ball Arena",
+        "city/state": "Denver",
+        "country": "CO"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-24",
+        "end_date": "2025-07-24",
+        "venue": "Little Caesars Arena",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-16",
+        "end_date": "2025-08-16",
+        "venue": "Toyota Center",
+        "city/state": "Houston",
+        "country": "TX"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-17",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-22",
+        "end_date": "2025-05-22",
+        "venue": "Saab Arena",
+        "city/state": "LinkAPping",
+        "country": "Sweden"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-17",
+        "venue": "Rocket Mortgage FieldHouse",
+        "city/state": "Cleveland",
+        "country": "OH"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-26",
+        "end_date": "2025-07-26",
+        "venue": "Bridgestone Arena",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-13",
+        "end_date": "2025-05-13",
+        "venue": "Accorhotels Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-14",
+        "end_date": "2025-08-14",
+        "venue": "Moody Center",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-04",
+        "end_date": "2025-05-04",
+        "venue": "Forum",
+        "city/state": "Assago",
+        "country": "Italy"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-22",
+        "end_date": "2025-04-22",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-29",
+        "end_date": "2025-07-29",
+        "venue": "Fiserv Forum",
+        "city/state": "Milwaukee",
+        "country": "WI"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-11",
+        "end_date": "2025-08-11",
+        "venue": "Footprint Center",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-07",
+        "end_date": "2025-05-07",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-05",
+        "end_date": "2025-08-05",
+        "venue": "T-Mobile Center",
+        "city/state": "Kansas City",
+        "country": "MO"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-16",
+        "end_date": "2025-04-16",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-29",
+        "end_date": "2025-04-29",
+        "venue": "MEO Arena",
+        "city/state": "Lisboa",
+        "country": "Portugal"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-10",
+        "end_date": "2025-08-10",
+        "venue": "Viejas Arena",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-11",
+        "end_date": "2025-05-11",
+        "venue": "O2 Arena",
+        "city/state": "Prague",
+        "country": "Czech Republic"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-08-02",
+        "end_date": "2025-08-02",
+        "venue": "Xcel Energy Center",
+        "city/state": "Saint Paul",
+        "country": "MN"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "Atlas Arena",
+        "city/state": "AA3dAo",
+        "country": "Poland"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-30",
+        "end_date": "2025-04-30",
+        "venue": "Palacio Vistalegre",
+        "city/state": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-14",
+        "end_date": "2025-05-14",
+        "venue": "Rudolf Weber-ARENA",
+        "city/state": "Oberhausen",
+        "country": "Germany"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-08",
+        "end_date": "2025-05-08",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-03",
+        "end_date": "2025-05-03",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-20",
+        "end_date": "2025-04-20",
+        "venue": "Utilita Arena Birmingham",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "Wells Fargo Center",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "LDLC Arena",
+        "city/state": "Lyon",
+        "country": "France"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-27",
+        "end_date": "2025-04-27",
+        "venue": "ZA(c)nith de Toulouse",
+        "city/state": "Toulouse",
+        "country": "France"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "GAPransson Arena AB",
+        "city/state": "Sandviken",
+        "country": "Sweden"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-22",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-25",
+        "venue": "KFC Yum! Center",
+        "city/state": "Louisville",
+        "country": "KY"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-04-19",
+        "end_date": "2025-04-19",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-09-24",
+        "end_date": "2025-09-24",
+        "venue": "Palacio de los Deportes",
+        "city/state": "Mexico City",
+        "country": "Mexico"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "PPG Paints Arena",
+        "city/state": "Pittsburgh",
+        "country": "PA"
+    },
+    {
+        "artist": "GHOST",
+        "start_date": "2025-07-21",
+        "end_date": "2025-07-21",
+        "venue": "TD Garden",
+        "city/state": "Boston",
+        "country": "MA"
+    }
+]

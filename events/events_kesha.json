@@ -1,0 +1,26 @@
+[
+    {
+        "artist": "Kesha",
+        "start_date": "2025-05-29",
+        "end_date": "2025-05-29",
+        "venue": "House of Kesha",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Kesha",
+        "start_date": "2025-05-30",
+        "end_date": "2025-05-30",
+        "venue": "House of Kesha",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Kesha",
+        "start_date": "2025-06-01",
+        "end_date": "2025-06-01",
+        "venue": "Mighty Hoopla 2025",
+        "city/state": "London",
+        "country": "United Kingdom"
+    }
+]

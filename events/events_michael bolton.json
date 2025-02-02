@@ -1,0 +1,58 @@
+[
+    {
+        "artist": "Michael Bolton",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-01",
+        "venue": "Beau Rivage Theatre",
+        "city/state": "Biloxi",
+        "country": "MS"
+    },
+    {
+        "artist": "Michael Bolton",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "Golden Nugget Hotel & Casino",
+        "city/state": "Lake Charles",
+        "country": "LA"
+    },
+    {
+        "artist": "Michael Bolton",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "Majestic Theatre",
+        "city/state": "San Antonio",
+        "country": "TX"
+    },
+    {
+        "artist": "Michael Bolton",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Michael Bolton Live at the Symphony",
+        "city/state": "Luzern",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Michael Bolton",
+        "start_date": "2025-07-05",
+        "end_date": "2025-07-05",
+        "venue": "Michael Bolton with Special Guest, Bonnie Tyler",
+        "city/state": "East London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Michael Bolton",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "Michael Bolton Live at the Symphony",
+        "city/state": "Luzern",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Michael Bolton",
+        "start_date": "2025-02-14",
+        "end_date": "2025-02-14",
+        "venue": "Fantasy Springs Special Events Center",
+        "city/state": "Indio",
+        "country": "CA"
+    }
+]

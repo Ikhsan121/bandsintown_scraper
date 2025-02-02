@@ -1,0 +1,66 @@
+[
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-05-03",
+        "end_date": "2025-05-03",
+        "venue": "Mayo Performing Arts Center",
+        "city/state": "Morristown",
+        "country": "NJ"
+    },
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-04-19",
+        "end_date": "2025-04-19",
+        "venue": "Lied Center for Performing Arts",
+        "city/state": "Lincoln",
+        "country": "NE"
+    },
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Tobin Center for the Performing Arts",
+        "city/state": "San Antonio",
+        "country": "TX"
+    },
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-16",
+        "venue": "Van Wezel Performing Arts Hall",
+        "city/state": "Sarasota",
+        "country": "FL"
+    },
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-04-17",
+        "end_date": "2025-04-17",
+        "venue": "The Palladium at the Center for the Performing Arts",
+        "city/state": "Carmel",
+        "country": "IN"
+    },
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-02",
+        "venue": "The Grand 1894 Opera House",
+        "city/state": "Galveston",
+        "country": "TX"
+    },
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-02-23",
+        "end_date": "2025-02-23",
+        "venue": "The Long Center For the Performing Arts",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "Itzhak Perlman",
+        "start_date": "2025-04-10",
+        "end_date": "2025-04-10",
+        "venue": "The Music Center at Strathmore",
+        "city/state": "North Bethesda",
+        "country": "MD"
+    }
+]

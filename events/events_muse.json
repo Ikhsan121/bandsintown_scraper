@@ -1,0 +1,42 @@
+[
+    {
+        "artist": "Muse",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Hellfest 2025",
+        "city/state": "Clisson",
+        "country": "France"
+    },
+    {
+        "artist": "Muse",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "Pinkpop 2025",
+        "city/state": "Landgraaf",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Muse",
+        "start_date": "2025-06-25",
+        "end_date": "2025-06-25",
+        "venue": "Tons of Rock 2025",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "Muse",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "STHLM Fields, GA$?rdet",
+        "city/state": "Astermalm",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Muse",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Rockfest 2025",
+        "city/state": "Turku",
+        "country": "Finland"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-10-09",
+        "end_date": "2025-10-09",
+        "venue": "Dickies Arena",
+        "city/state": "Fort Worth",
+        "country": "TX"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-05-31",
+        "end_date": "2025-05-31",
+        "venue": "Coastal Credit Union Music Park At Walnut Creek",
+        "city/state": "Raleigh",
+        "country": "NC"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-02-14",
+        "end_date": "2025-02-14",
+        "venue": "Fontainebleau Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-23",
+        "end_date": "2025-08-23",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-25",
+        "end_date": "2025-08-25",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-27",
+        "end_date": "2025-09-27",
+        "venue": "CHI Health Center Omaha",
+        "city/state": "Omaha",
+        "country": "NE"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-10-04",
+        "end_date": "2025-10-04",
+        "venue": "Jiffy Lube Live",
+        "city/state": "Bristow",
+        "country": "VA"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "Utah First Credit Union Amphitheatre",
+        "city/state": "West Valley City",
+        "country": "UT"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-28",
+        "end_date": "2025-08-28",
+        "venue": "Adelaide Entertainment Centre",
+        "city/state": "Hindmarsh",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-19",
+        "end_date": "2025-06-19",
+        "venue": "Merriweather Post Pavilion",
+        "city/state": "Columbia",
+        "country": "MD"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Frost Bank Center",
+        "city/state": "San Antonio",
+        "country": "TX"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-16",
+        "end_date": "2025-08-16",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "Blossom Music Center",
+        "city/state": "Cuyahoga Falls",
+        "country": "OH"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-10-11",
+        "end_date": "2025-10-11",
+        "venue": "The Cynthia Woods Mitchell Pavilion",
+        "city/state": "The Woodlands",
+        "country": "TX"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-20",
+        "end_date": "2025-08-20",
+        "venue": "WIN Entertainment Centre",
+        "city/state": "Wollongong city centre",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-05-22",
+        "end_date": "2025-05-22",
+        "venue": "The Wharf Amphitheater",
+        "city/state": "Orange Beach",
+        "country": "AL"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-13",
+        "end_date": "2025-08-13",
+        "venue": "Newcastle Entertainment Centre",
+        "city/state": "Broadmeadow",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-20",
+        "end_date": "2025-09-20",
+        "venue": "Canadian Tire Centre",
+        "city/state": "Ottawa",
+        "country": "ON"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-05-24",
+        "end_date": "2025-05-24",
+        "venue": "Credit One Stadium",
+        "city/state": "Charleston",
+        "country": "SC"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-10-03",
+        "end_date": "2025-10-03",
+        "venue": "Mohegan Sun Arena",
+        "city/state": "Uncasville",
+        "country": "CT"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-25",
+        "end_date": "2025-09-25",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-13",
+        "end_date": "2025-09-13",
+        "venue": "Brandt Centre",
+        "city/state": "Regina",
+        "country": "SK"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-05-30",
+        "end_date": "2025-05-30",
+        "venue": "PNC Music Pavilion",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-02-15",
+        "end_date": "2025-02-15",
+        "venue": "Fontainebleau Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "Pine Knob Music Theatre",
+        "city/state": "Clarkston",
+        "country": "MI"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "PNC Bank Arts Center",
+        "city/state": "Holmdel",
+        "country": "NJ"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-16",
+        "end_date": "2025-09-16",
+        "venue": "Canada Life Centre",
+        "city/state": "Winnipeg",
+        "country": "MB"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-17",
+        "venue": "Fiddler's Green Amphitheatre",
+        "city/state": "Greenwood Village",
+        "country": "CO"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-26",
+        "end_date": "2025-08-26",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-12",
+        "end_date": "2025-09-12",
+        "venue": "Scotiabank Saddledome",
+        "city/state": "Calgary",
+        "country": "AB"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-22",
+        "end_date": "2025-08-22",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-19",
+        "end_date": "2025-09-19",
+        "venue": "Bell Centre",
+        "city/state": "Montreal",
+        "country": "QC"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Northwell Health at Jones Beach Theater",
+        "city/state": "Wantagh",
+        "country": "NY"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "Ford Idaho Center Amphitheater",
+        "city/state": "Nampa",
+        "country": "ID"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-10",
+        "end_date": "2025-09-10",
+        "venue": "Rogers Arena",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "Fontainebleau Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "Riverbend Music Center",
+        "city/state": "Cincinnati",
+        "country": "OH"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-15",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Fontainebleau Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-05-03",
+        "end_date": "2025-05-03",
+        "venue": "Chaifetz Arena",
+        "city/state": "St Louis",
+        "country": "MO"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "BankNH Pavilion",
+        "city/state": "Gilford",
+        "country": "NH"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-07-26",
+        "end_date": "2025-07-26",
+        "venue": "Intuit Dome",
+        "city/state": "Lennox",
+        "country": "CA"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-08-17",
+        "end_date": "2025-08-17",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "Ameris Bank Amphitheatre",
+        "city/state": "Alpharetta",
+        "country": "GA"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-09-15",
+        "end_date": "2025-09-15",
+        "venue": "Sasktel Centre",
+        "city/state": "Saskatoon",
+        "country": "SK"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-10-17",
+        "end_date": "2025-10-17",
+        "venue": "Bridgestone Arena",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Budweiser Stage",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-10-02",
+        "end_date": "2025-10-02",
+        "venue": "Giant Center",
+        "city/state": "Hershey",
+        "country": "PA"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-06-28",
+        "end_date": "2025-06-28",
+        "venue": "Ruoff Music Center",
+        "city/state": "Noblesville",
+        "country": "IN"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-02-19",
+        "end_date": "2025-02-19",
+        "venue": "Fontainebleau Las Vegas",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Keith Urban",
+        "start_date": "2025-10-16",
+        "end_date": "2025-10-16",
+        "venue": "Bon Secours Wellness Arena",
+        "city/state": "Greenville",
+        "country": "SC"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "Forest National",
+        "city/state": "Bruxelles",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-02",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-05-04",
+        "end_date": "2025-05-04",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-28",
+        "end_date": "2025-04-28",
+        "venue": "AFAS Live",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-24",
+        "end_date": "2025-04-24",
+        "venue": "AFAS Live",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "The National Bowl",
+        "city/state": "Milton Keynes",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-15",
+        "end_date": "2025-04-15",
+        "venue": "Tipsport arena",
+        "city/state": "Prague",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-16",
+        "end_date": "2025-04-16",
+        "venue": "Atlas Arena",
+        "city/state": "AA3dAo",
+        "country": "Poland"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-23",
+        "end_date": "2025-04-23",
+        "venue": "Zenith Paris - La Villette",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-13",
+        "end_date": "2025-04-13",
+        "venue": "KB Hallen",
+        "city/state": "Frederiksberg",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-18",
+        "end_date": "2025-04-18",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-22",
+        "end_date": "2025-04-22",
+        "venue": "Zenith Paris - La Villette",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-20",
+        "end_date": "2025-04-20",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-12",
+        "end_date": "2025-04-12",
+        "venue": "Sporthalle",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Chase Atlantic",
+        "start_date": "2025-04-30",
+        "end_date": "2025-04-30",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    }
+]

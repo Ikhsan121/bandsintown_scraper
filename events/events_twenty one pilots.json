@@ -1,0 +1,202 @@
+[
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-02",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-28",
+        "end_date": "2025-04-28",
+        "venue": "Forum",
+        "city/state": "Assago",
+        "country": "Italy"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-24",
+        "end_date": "2025-04-24",
+        "venue": "LDLC Arena",
+        "city/state": "Lyon",
+        "country": "France"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-13",
+        "end_date": "2025-05-13",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-07",
+        "end_date": "2025-04-07",
+        "venue": "Barclays Arena",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-21",
+        "end_date": "2025-04-21",
+        "venue": "WiZink Center",
+        "city/state": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-13",
+        "end_date": "2025-04-13",
+        "venue": "Wiener Stadthalle",
+        "city/state": "Vienna",
+        "country": "Austria"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-27",
+        "end_date": "2025-04-27",
+        "venue": "Olympiahalle",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-09",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "3 De Marzo Stadium",
+        "city/state": "Zapopan",
+        "country": "Mexico"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-11",
+        "end_date": "2025-05-11",
+        "venue": "AO Arena",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-22",
+        "end_date": "2025-04-22",
+        "venue": "Palau Sant Jordi",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-16",
+        "end_date": "2025-04-16",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-08",
+        "end_date": "2025-05-08",
+        "venue": "The SSE Arena, Belfast",
+        "city/state": "Belfast",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-20",
+        "venue": "Estadio GNP Seguros",
+        "city/state": "Mexico",
+        "country": "Mexico"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-08",
+        "end_date": "2025-04-08",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-12",
+        "end_date": "2025-04-12",
+        "venue": "O2 Arena",
+        "city/state": "Prague",
+        "country": "Czech Republic"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-01",
+        "end_date": "2025-05-01",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-14",
+        "end_date": "2025-05-14",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-17",
+        "end_date": "2025-04-17",
+        "venue": "Unipol arena",
+        "city/state": "Bologna",
+        "country": "Italy"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-09",
+        "end_date": "2025-04-09",
+        "venue": "Atlas Arena",
+        "city/state": "AA3dAo",
+        "country": "Poland"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-06",
+        "end_date": "2025-05-06",
+        "venue": "bp pulse LIVE",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-04-30",
+        "end_date": "2025-04-30",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-02-24",
+        "end_date": "2025-02-24",
+        "venue": "Borrego Sports Center",
+        "city/state": "Monterrey",
+        "country": "Mexico"
+    },
+    {
+        "artist": "twenty one pilots",
+        "start_date": "2025-05-05",
+        "end_date": "2025-05-05",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-11",
+        "end_date": "2025-05-11",
+        "venue": "Golden 1 Center",
+        "city/state": "Sacramento",
+        "country": "CA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "Don Haskins Center",
+        "city/state": "El Paso",
+        "country": "TX"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-08",
+        "end_date": "2025-05-08",
+        "venue": "Toyota Arena",
+        "city/state": "Ontario",
+        "country": "CA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-06-25",
+        "end_date": "2025-06-25",
+        "venue": "Fiera Di Milano Area Concerti",
+        "city/state": "Rho",
+        "country": "Italy"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-10",
+        "end_date": "2025-04-10",
+        "venue": "Prudential Center",
+        "city/state": "Newark",
+        "country": "NJ"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-08",
+        "end_date": "2025-04-08",
+        "venue": "Scotiabank Arena",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "Capital One Arena",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-05",
+        "end_date": "2025-04-05",
+        "venue": "Santander Arena",
+        "city/state": "Reading",
+        "country": "PA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-03",
+        "end_date": "2025-05-03",
+        "venue": "Michelob ULTRA Arena",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-19",
+        "end_date": "2025-04-19",
+        "venue": "Payne Arena",
+        "city/state": "Hidalgo",
+        "country": "TX"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "SAP Center At San Jose",
+        "city/state": "San Jose",
+        "country": "CA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-24",
+        "end_date": "2025-04-24",
+        "venue": "Moody Center",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "Mohegan Sun Arena",
+        "city/state": "Uncasville",
+        "country": "CT"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-17",
+        "end_date": "2025-04-17",
+        "venue": "Toyota Center",
+        "city/state": "Houston",
+        "country": "TX"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-03-30",
+        "end_date": "2025-03-30",
+        "venue": "Barclays Center",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-17",
+        "venue": "Moda Center",
+        "city/state": "Portland",
+        "country": "OR"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-01",
+        "end_date": "2025-05-01",
+        "venue": "Footprint Center",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-16",
+        "end_date": "2025-05-16",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-04",
+        "end_date": "2025-05-04",
+        "venue": "Pechanga Arena",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-23",
+        "end_date": "2025-04-23",
+        "venue": "Dickies Arena",
+        "city/state": "Fort Worth",
+        "country": "TX"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Kaseya Center",
+        "city/state": "Miami",
+        "country": "FL"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-09",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-07",
+        "end_date": "2025-04-07",
+        "venue": "Place Bell",
+        "city/state": "Laval",
+        "country": "QC"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-04",
+        "end_date": "2025-04-04",
+        "venue": "Agganis Arena",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-03-20",
+        "end_date": "2025-03-20",
+        "venue": "State Farm Arena",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-03-27",
+        "end_date": "2025-03-27",
+        "venue": "Spectrum Center",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-21",
+        "venue": "Kia Center",
+        "city/state": "Orlando",
+        "country": "FL"
+    },
+    {
+        "artist": "J Balvin",
+        "start_date": "2025-04-13",
+        "end_date": "2025-04-13",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    }
+]

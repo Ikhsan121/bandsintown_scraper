@@ -1,0 +1,26 @@
+[
+    {
+        "artist": "James Arthur",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Royal Albert Hall",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "James Arthur",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Bonnaroo 2025",
+        "city/state": "Manchester",
+        "country": "TN"
+    },
+    {
+        "artist": "James Arthur",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "Spark Arena",
+        "city/state": "Auckland",
+        "country": "New Zealand"
+    }
+]

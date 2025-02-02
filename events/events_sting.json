@@ -1,0 +1,466 @@
+[
+    {
+        "artist": "Sting",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-13",
+        "venue": "Vinoy Park",
+        "city/state": "St. Petersburg",
+        "country": "FL"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Grand Arena at GrandWest",
+        "city/state": "Cape Town",
+        "country": "South Africa"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-05-19",
+        "end_date": "2025-05-19",
+        "venue": "Red Rocks Amphitheatre",
+        "city/state": "Morrison",
+        "country": "CO"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-11-23",
+        "end_date": "2025-11-23",
+        "venue": "Hard Rock Casino Northern Indiana",
+        "city/state": "Gary",
+        "country": "IN"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Movistar Arena",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "Rice-Eccles Stadium",
+        "city/state": "Salt Lake City",
+        "country": "UT"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-03",
+        "end_date": "2025-07-03",
+        "venue": "Parc Du Port Mulon",
+        "city/state": "Nort-sur-Erdre",
+        "country": "France"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-16",
+        "end_date": "2025-10-16",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-25",
+        "venue": "Grand Arena at GrandWest",
+        "city/state": "Cape Town",
+        "country": "South Africa"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-01",
+        "end_date": "2025-06-01",
+        "venue": "Arizona Financial Theatre",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "Liverpool Pier Head",
+        "city/state": "Liverpool",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "Tivoli Friheden",
+        "city/state": "Aarhus C",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-09-05",
+        "end_date": "2025-09-05",
+        "venue": "Nationals Park",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "Bank of America Stadium",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-01",
+        "end_date": "2025-07-01",
+        "venue": "Luxexpo",
+        "city/state": "Luxembourg",
+        "country": "Luxembourg"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-24",
+        "end_date": "2025-07-24",
+        "venue": "Henham Park",
+        "city/state": "Southwold",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Nordmarksportfeld",
+        "city/state": "Kiel",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-24",
+        "end_date": "2025-06-24",
+        "venue": "Lincoln Castle",
+        "city/state": "Lincoln",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "Auditorio Nacional",
+        "city/state": "Ciudad de MA(c)xico",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Platz der VAPlkerfreundschaft",
+        "city/state": "Zwickau",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "SunBet Arena Time Square",
+        "city/state": "Pretoria",
+        "country": "South Africa"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-15",
+        "end_date": "2025-07-15",
+        "venue": "Burg Clam",
+        "city/state": "Klam",
+        "country": "Austria"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-05-28",
+        "end_date": "2025-05-28",
+        "venue": "Hard Rock Live Sacramento",
+        "city/state": "Wheatland",
+        "country": "CA"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-08",
+        "end_date": "2025-10-08",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-18",
+        "end_date": "2025-06-18",
+        "venue": "Westonbirt Arboretum",
+        "city/state": "Thornbury",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-25",
+        "end_date": "2025-06-25",
+        "venue": "Bellahouston Park",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-11",
+        "end_date": "2025-10-11",
+        "venue": "SUD DE FRANCE ARENA",
+        "city/state": "MONTPELLIER",
+        "country": "France"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-13",
+        "end_date": "2025-10-13",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "Auditorio Nacional",
+        "city/state": "Ciudad de MA(c)xico",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-04-11",
+        "end_date": "2025-04-11",
+        "venue": "JMA Wireless Dome",
+        "city/state": "Syracuse",
+        "country": "NY"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-09",
+        "end_date": "2025-10-09",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-06",
+        "end_date": "2025-07-06",
+        "venue": "Bassano Music Park",
+        "city/state": "Bassano del Grappa",
+        "country": "Italy"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "American Family Field",
+        "city/state": "Milwaukee",
+        "country": "WI"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-28",
+        "end_date": "2025-06-28",
+        "venue": "Cardiff Castle",
+        "city/state": "Cardiff",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "Villa Manin",
+        "city/state": "Codroipo",
+        "country": "Italy"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-28",
+        "end_date": "2025-10-28",
+        "venue": "Eventim Apollo",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-04",
+        "end_date": "2025-07-04",
+        "venue": "Base de Loisirs de Pratgraussals",
+        "city/state": "Albi",
+        "country": "France"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-05-20",
+        "end_date": "2025-05-20",
+        "venue": "Red Rocks Amphitheatre",
+        "city/state": "Morrison",
+        "country": "CO"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "Cannock Chase Forest",
+        "city/state": "Rugeley",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-24",
+        "end_date": "2025-10-24",
+        "venue": "O2 Forum Kentish Town",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "Etihad Arena, Yas Bay",
+        "city/state": "Abu Dhabi",
+        "country": "United Arab Emirates"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-09",
+        "end_date": "2025-06-09",
+        "venue": "SparkassenPark MAPnchengladbach",
+        "city/state": "MAPnchengladbach",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "Pori Jazz 2025",
+        "city/state": "Pori",
+        "country": "Finland"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-20",
+        "end_date": "2025-10-20",
+        "venue": "Tauron Arena Krakow",
+        "city/state": "KrakA3w",
+        "country": "Poland"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-04",
+        "end_date": "2025-07-04",
+        "venue": "Pause Guitare 2025",
+        "city/state": "Albi",
+        "country": "France"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-07",
+        "end_date": "2025-06-07",
+        "venue": "Wertwiesenpark",
+        "city/state": "Sontheim",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-26",
+        "end_date": "2025-10-26",
+        "venue": "Eventim Apollo",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-06-11",
+        "end_date": "2025-06-11",
+        "venue": "IGA Park",
+        "city/state": "Rostock",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-02-16",
+        "end_date": "2025-02-16",
+        "venue": "Parque Ibirapuera",
+        "city/state": "SAPSo Paulo",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-07",
+        "end_date": "2025-07-07",
+        "venue": "Auditorium Parco della Musica Ennio Morricone",
+        "city/state": "Rome",
+        "country": "Italy"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-16",
+        "end_date": "2025-07-16",
+        "venue": "Colours of Ostrava 2025",
+        "city/state": "Ostrava 3",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-14",
+        "end_date": "2025-10-14",
+        "venue": "Olympiastadion MA 1/4nchen",
+        "city/state": "MA 1/4nchen",
+        "country": "Germany"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-21",
+        "end_date": "2025-10-21",
+        "venue": "PREZERO ARENA GLIWICE",
+        "city/state": "Gliwice",
+        "country": "Poland"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Lucas Oil Stadium",
+        "city/state": "Indianapolis",
+        "country": "IN"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-05-25",
+        "end_date": "2025-05-25",
+        "venue": "Hayden Homes Amphitheater",
+        "city/state": "Bend",
+        "country": "OR"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-22",
+        "venue": "Brottet Halmstad",
+        "city/state": "Halmstad",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-10-27",
+        "end_date": "2025-10-27",
+        "venue": "Eventim Apollo",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Sting",
+        "start_date": "2025-05-26",
+        "end_date": "2025-05-26",
+        "venue": "Hayden Homes Amphitheater",
+        "city/state": "Bend",
+        "country": "OR"
+    }
+]

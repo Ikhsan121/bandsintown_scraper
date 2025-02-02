@@ -1,0 +1,26 @@
+[
+  {
+    "artist": "Hollywood Undead",
+    "start_date": "2025-03-11",
+    "end_date": "2025-03-11",
+    "venue": "RAC Arena",
+    "city_state": "Perth",
+    "country": "Australia"
+  },
+  {
+    "artist": "Hollywood Undead",
+    "start_date": "2025-03-13",
+    "end_date": "2025-03-13",
+    "venue": "Adelaide Entertainment Centre",
+    "city_state": "Hindmarsh",
+    "country": "Australia"
+  },
+  {
+    "artist": "Hollywood Undead",
+    "start_date": "2025-03-18",
+    "end_date": "2025-03-18",
+    "venue": "Brisbane Entertainment Centre",
+    "city_state": "Brisbane",
+    "country": "Australia"
+  }
+]

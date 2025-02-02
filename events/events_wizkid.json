@@ -1,0 +1,26 @@
+[
+    {
+        "artist": "Wizkid",
+        "start_date": "2025-05-25",
+        "end_date": "2025-05-25",
+        "venue": "WizKid Morayo Live",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Wizkid",
+        "start_date": "2025-05-21",
+        "end_date": "2025-05-21",
+        "venue": "WizKid Morayo Live",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Wizkid",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "WizKid Morayo Live",
+        "city/state": "Rotterdam",
+        "country": "Netherlands"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "artist": "Patti LaBelle",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "New Jersey Performing Arts Center",
+        "city/state": "Newark",
+        "country": "NJ"
+    },
+    {
+        "artist": "Patti LaBelle",
+        "start_date": "2025-02-06",
+        "end_date": "2025-02-06",
+        "venue": "The Theater at MGM National Harbor",
+        "city/state": "Oxon Hill",
+        "country": "MD"
+    },
+    {
+        "artist": "Patti LaBelle",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "Symphony Hall",
+        "city/state": "Springfield",
+        "country": "MA"
+    },
+    {
+        "artist": "Patti LaBelle",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-02",
+        "venue": "Riverwind Casino",
+        "city/state": "Norman",
+        "country": "OK"
+    },
+    {
+        "artist": "Patti LaBelle",
+        "start_date": "2025-05-01",
+        "end_date": "2025-05-01",
+        "venue": "Majestic Theatre",
+        "city/state": "Dallas",
+        "country": "TX"
+    }
+]

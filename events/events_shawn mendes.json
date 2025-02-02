@@ -1,0 +1,82 @@
+[
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-21",
+        "venue": "Hipodromo De San Isidro",
+        "city/state": "San Isidro",
+        "country": "Argentina"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-08-06",
+        "end_date": "2025-08-06",
+        "venue": "Sziget Festival 2025",
+        "city/state": "Budapest III. kerA 1/4let",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-08-07",
+        "end_date": "2025-08-07",
+        "venue": "Sziget Festival 2025",
+        "city/state": "Budapest",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-01",
+        "venue": "Costa 21",
+        "city/state": "San Miguel",
+        "country": "Peru"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "Lollapalooza India 2025",
+        "city/state": "Mumbai",
+        "country": "India"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-03-27",
+        "end_date": "2025-03-27",
+        "venue": "Parque Metropolitano SimA3n BolAvar",
+        "city/state": "BogotA!",
+        "country": "Colombia"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-04-08",
+        "end_date": "2025-04-08",
+        "venue": "Coliseo de Puerto Rico",
+        "city/state": "San Juan",
+        "country": "Puerto Rico"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-04-05",
+        "end_date": "2025-04-05",
+        "venue": "Anfiteatro Coca-Cola",
+        "city/state": "GuA!cima",
+        "country": "Costa Rica"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-23",
+        "venue": "Parque Bicentenario de Cerrillos",
+        "city/state": "Los Cerrillos",
+        "country": "Chile"
+    },
+    {
+        "artist": "Shawn Mendes",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "AutA3dromo JosA(c) Carlos Pace",
+        "city/state": "SAPSo Paulo",
+        "country": "Brazil"
+    }
+]

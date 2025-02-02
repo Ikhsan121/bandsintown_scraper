@@ -1,0 +1,26 @@
+[
+    {
+        "artist": "Christina Aguilera",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Festival Carnauol 2025",
+        "city/state": "SAPSo Paulo",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Christina Aguilera",
+        "start_date": "2025-02-15",
+        "end_date": "2025-02-15",
+        "venue": "Saadiyat Island",
+        "city/state": "Abu Dhabi",
+        "country": "United Arab Emirates"
+    },
+    {
+        "artist": "Christina Aguilera",
+        "start_date": "2025-02-06",
+        "end_date": "2025-02-06",
+        "venue": "Farmasi Arena",
+        "city/state": "Rio de Janeiro",
+        "country": "Brazil"
+    }
+]

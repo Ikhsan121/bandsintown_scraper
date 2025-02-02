@@ -1,0 +1,114 @@
+[
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-05",
+        "end_date": "2025-07-05",
+        "venue": "Scotiabank Saddledome",
+        "city/state": "Calgary",
+        "country": "AB"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "Darien Lake Amphitheater",
+        "city/state": "Darien Center",
+        "country": "NY"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-16",
+        "end_date": "2025-07-16",
+        "venue": "The Theatre at Great Canadian Casino Resort Toronto",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-01",
+        "venue": "Seminole Hard Rock Hotel & Casino - Hollywood, FL",
+        "city/state": "Hollywood",
+        "country": "FL"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "Planet Hollywood Resort & Casino",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-22",
+        "venue": "Maine Savings Amphitheater",
+        "city/state": "Bangor",
+        "country": "ME"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Planet Hollywood Resort & Casino",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-26",
+        "end_date": "2025-07-26",
+        "venue": "Hersheypark Stadium",
+        "city/state": "Hershey",
+        "country": "PA"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-29",
+        "end_date": "2025-07-29",
+        "venue": "Daily's Place",
+        "city/state": "Jacksonville",
+        "country": "FL"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-01",
+        "venue": "Planet Hollywood Resort & Casino",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-15",
+        "end_date": "2025-07-15",
+        "venue": "The Theatre at Great Canadian Casino Resort Toronto",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-20",
+        "end_date": "2025-07-20",
+        "venue": "Broadview Stage at SPAC",
+        "city/state": "Saratoga Springs",
+        "country": "NY"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-02-05",
+        "end_date": "2025-02-05",
+        "venue": "Planet Hollywood Resort & Casino",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Shania Twain",
+        "start_date": "2025-07-24",
+        "end_date": "2025-07-24",
+        "venue": "BankNH Pavilion",
+        "city/state": "Gilford",
+        "country": "NH"
+    }
+]

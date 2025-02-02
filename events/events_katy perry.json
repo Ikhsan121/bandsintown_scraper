@@ -1,0 +1,522 @@
+[
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-28",
+        "end_date": "2025-10-28",
+        "venue": "Tauron Arena Krakow",
+        "city/state": "KrakA3w",
+        "country": "Poland"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-07",
+        "end_date": "2025-10-07",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-09",
+        "venue": "Paycom Center",
+        "city/state": "Oklahoma City",
+        "country": "OK"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-06",
+        "end_date": "2025-08-06",
+        "venue": "Scotiabank Arena",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "BC Place",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-14",
+        "end_date": "2025-08-14",
+        "venue": "Prudential Center",
+        "city/state": "Newark",
+        "country": "NJ"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-12",
+        "end_date": "2025-05-12",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-11",
+        "end_date": "2025-08-11",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "T-Mobile Center",
+        "city/state": "Kansas City",
+        "country": "MO"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-15",
+        "venue": "CFG Bank Arena",
+        "city/state": "Baltimore",
+        "country": "MD"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-11-04",
+        "end_date": "2025-11-04",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-29",
+        "end_date": "2025-07-29",
+        "venue": "Canadian Tire Centre",
+        "city/state": "Ottawa",
+        "country": "ON"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-17",
+        "venue": "T-Mobile Arena",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-09-10",
+        "end_date": "2025-09-10",
+        "venue": "Movistar Arena",
+        "city/state": "Buenos Aires",
+        "country": "Argentina"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-13",
+        "end_date": "2025-10-13",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-17",
+        "end_date": "2025-06-17",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-16",
+        "end_date": "2025-10-16",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-03",
+        "end_date": "2025-08-03",
+        "venue": "Little Caesars Arena",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-11-07",
+        "end_date": "2025-11-07",
+        "venue": "LDLC Arena",
+        "city/state": "Lyon",
+        "country": "France"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-10",
+        "end_date": "2025-10-10",
+        "venue": "Utilita Arena Sheffield",
+        "city/state": "Sheffield",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-22",
+        "end_date": "2025-08-22",
+        "venue": "Amalie Arena",
+        "city/state": "Tampa",
+        "country": "FL"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-15",
+        "end_date": "2025-05-15",
+        "venue": "Ball Arena",
+        "city/state": "Denver",
+        "country": "CO"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-15",
+        "end_date": "2025-07-15",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-11-05",
+        "end_date": "2025-11-05",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-19",
+        "end_date": "2025-08-19",
+        "venue": "Bridgestone Arena",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-08",
+        "end_date": "2025-10-08",
+        "venue": "AO Arena",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-13",
+        "end_date": "2025-05-13",
+        "venue": "Target Center",
+        "city/state": "Minneapolis",
+        "country": "MN"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-10",
+        "end_date": "2025-06-10",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "Adelaide Entertainment Centre",
+        "city/state": "Hindmarsh",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "Chase Center",
+        "city/state": "San Francisco",
+        "country": "CA"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-24",
+        "end_date": "2025-10-24",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-12",
+        "venue": "Footprint Center",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-09-09",
+        "end_date": "2025-09-09",
+        "venue": "Movistar Arena",
+        "city/state": "Buenos Aires",
+        "country": "Argentina"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-20",
+        "end_date": "2025-05-20",
+        "venue": "Moody Center",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-07",
+        "end_date": "2025-05-07",
+        "venue": "Toyota Center",
+        "city/state": "Houston",
+        "country": "TX"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-17",
+        "end_date": "2025-08-17",
+        "venue": "Lenovo Center",
+        "city/state": "Raleigh",
+        "country": "NC"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-30",
+        "end_date": "2025-07-30",
+        "venue": "Bell Centre",
+        "city/state": "Montreal",
+        "country": "QC"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "RAC Arena",
+        "city/state": "Perth",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-21",
+        "end_date": "2025-10-21",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-18",
+        "end_date": "2025-06-18",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-13",
+        "end_date": "2025-07-13",
+        "venue": "Honda Center",
+        "city/state": "Anaheim",
+        "country": "CA"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-24",
+        "end_date": "2025-07-24",
+        "venue": "Rogers Place",
+        "city/state": "Edmonton",
+        "country": "AB"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-11",
+        "end_date": "2025-10-11",
+        "venue": "Utilita Arena Birmingham",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-30",
+        "end_date": "2025-06-30",
+        "venue": "Adelaide Entertainment Centre",
+        "city/state": "Hindmarsh",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-30",
+        "end_date": "2025-10-30",
+        "venue": "O2 arena",
+        "city/state": "Praha 9",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-21",
+        "end_date": "2025-07-21",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-11-02",
+        "end_date": "2025-11-02",
+        "venue": "Unipol Arena",
+        "city/state": "CASALECCHIO DI RENO",
+        "country": "Italy"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-09",
+        "end_date": "2025-06-09",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-09",
+        "end_date": "2025-08-09",
+        "venue": "Wells Fargo Center",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-14",
+        "end_date": "2025-10-14",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-23",
+        "end_date": "2025-08-23",
+        "venue": "Kaseya Center",
+        "city/state": "Miami",
+        "country": "FL"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-10-19",
+        "end_date": "2025-10-19",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-08",
+        "venue": "TD Garden",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-22",
+        "venue": "Rogers Arena",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-05-21",
+        "end_date": "2025-05-21",
+        "venue": "American Airlines Center",
+        "city/state": "Dallas",
+        "country": "TX"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "Adelaide Entertainment Centre",
+        "city/state": "Hindmarsh",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-20",
+        "end_date": "2025-08-20",
+        "venue": "State Farm Arena",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-01",
+        "venue": "Centre VidA(c)otron",
+        "city/state": "Quebec City",
+        "country": "QC"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-23",
+        "end_date": "2025-06-23",
+        "venue": "RAC Arena",
+        "city/state": "Perth",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-07-26",
+        "end_date": "2025-07-26",
+        "venue": "Canada Life Centre",
+        "city/state": "Winnipeg",
+        "country": "MB"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-06-29",
+        "end_date": "2025-06-29",
+        "venue": "Adelaide Entertainment Centre",
+        "city/state": "Hindmarsh",
+        "country": "Australia"
+    },
+    {
+        "artist": "Katy Perry",
+        "start_date": "2025-08-05",
+        "end_date": "2025-08-05",
+        "venue": "Scotiabank Arena",
+        "city/state": "Toronto",
+        "country": "ON"
+    }
+]

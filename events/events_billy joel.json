@@ -1,0 +1,130 @@
+[
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "Anfield Stadium",
+        "city/state": "Liverpool",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Ford Field",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "Rice-Eccles Stadium",
+        "city/state": "Salt Lake City",
+        "country": "UT"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "Yankee Stadium",
+        "city/state": "Bronx",
+        "country": "NY"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-08",
+        "venue": "MetLife Stadium",
+        "city/state": "East Rutherford",
+        "country": "NJ"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-07-05",
+        "end_date": "2025-07-05",
+        "venue": "Acrisure Stadium",
+        "city/state": "Pittsburgh",
+        "country": "PA"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "American Family Field",
+        "city/state": "Milwaukee",
+        "country": "WI"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-04-11",
+        "end_date": "2025-04-11",
+        "venue": "JMA Wireless Dome",
+        "city/state": "Syracuse",
+        "country": "NY"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-09-20",
+        "end_date": "2025-09-20",
+        "venue": "Paycor Stadium",
+        "city/state": "Cincinnati",
+        "country": "OH"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "Mohegan Sun Arena",
+        "city/state": "Uncasville",
+        "country": "CT"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "Bank of America Stadium",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-06-07",
+        "end_date": "2025-06-07",
+        "venue": "Scottish Gas Murrayfield Stadium",
+        "city/state": "Edinburgh",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-11-01",
+        "end_date": "2025-11-01",
+        "venue": "Seminole Hard Rock Hotel & Casino - Hollywood, FL",
+        "city/state": "Hollywood",
+        "country": "FL"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-09-05",
+        "end_date": "2025-09-05",
+        "venue": "Nationals Park",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Lucas Oil Stadium",
+        "city/state": "Indianapolis",
+        "country": "IN"
+    },
+    {
+        "artist": "Billy Joel",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-15",
+        "venue": "Rogers Centre",
+        "city/state": "Toronto",
+        "country": "ON"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "artist": "Fall Out Boy",
+        "start_date": "2025-08-30",
+        "end_date": "2025-08-30",
+        "venue": "Allianz Parque",
+        "city/state": "SAPSo Paulo",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Fall Out Boy",
+        "start_date": "2025-04-04",
+        "end_date": "2025-04-04",
+        "venue": "Tecate Pal Norte 2025",
+        "city/state": "Monterrey",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Fall Out Boy",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "Boston Calling Festival 2025",
+        "city/state": "Allston",
+        "country": "MA"
+    },
+    {
+        "artist": "Fall Out Boy",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Innings Festival 2025",
+        "city/state": "Tempe",
+        "country": "AZ"
+    },
+    {
+        "artist": "Fall Out Boy",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "Minnesota Yacht Club Festival 2025",
+        "city/state": "Saint Paul",
+        "country": "MN"
+    },
+    {
+        "artist": "Fall Out Boy",
+        "start_date": "2025-08-23",
+        "end_date": "2025-08-23",
+        "venue": "EstA!dio Couto Pereira",
+        "city/state": "Curitiba",
+        "country": "Brazil"
+    }
+]

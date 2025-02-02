@@ -1,0 +1,306 @@
+[
+    {
+        "artist": "Deftones",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-02-25",
+        "end_date": "2025-02-25",
+        "venue": "Moda Center",
+        "city/state": "Portland",
+        "country": "OR"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-24",
+        "venue": "Spectrum Center",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-09-03",
+        "end_date": "2025-09-03",
+        "venue": "Rogers Stadium",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-07-04",
+        "end_date": "2025-07-04",
+        "venue": "Main Square Festival 2025",
+        "city/state": "Arras",
+        "country": "France"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-01",
+        "venue": "Little Caesars Arena",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Amerant Bank Arena",
+        "city/state": "Sunrise",
+        "country": "FL"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-20",
+        "end_date": "2025-03-20",
+        "venue": "Kia Center",
+        "city/state": "Orlando",
+        "country": "FL"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Bridgestone Arena",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-15",
+        "venue": "American Airlines Center",
+        "city/state": "Dallas",
+        "country": "TX"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-09-05",
+        "end_date": "2025-09-05",
+        "venue": "Rogers Stadium",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Nationwide Arena",
+        "city/state": "Columbus",
+        "country": "OH"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-04-06",
+        "end_date": "2025-04-06",
+        "venue": "Capital One Arena",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-06-29",
+        "end_date": "2025-06-29",
+        "venue": "Crystal Palace Park",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "MGM Grand Garden Arena",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Hurricane Festival 2025",
+        "city/state": "Schnee",
+        "country": "Germany"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-04-04",
+        "end_date": "2025-04-04",
+        "venue": "Wells Fargo Center",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-18",
+        "end_date": "2025-03-18",
+        "venue": "State Farm Arena",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-04-08",
+        "end_date": "2025-04-08",
+        "venue": "TD Garden",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "Eden Project",
+        "city/state": "Saint Austell",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-01",
+        "venue": "Golden 1 Center",
+        "city/state": "Sacramento",
+        "country": "CA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "Gainbridge Fieldhouse",
+        "city/state": "Indianapolis",
+        "country": "IN"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-06-24",
+        "end_date": "2025-06-24",
+        "venue": "The Piece Hall",
+        "city/state": "Halifax",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-12",
+        "venue": "Moody Center",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "Southside Festival 2025",
+        "city/state": "Neuhausen ob Eck",
+        "country": "Germany"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-05",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-09",
+        "venue": "Footprint Center",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-04-09",
+        "end_date": "2025-04-09",
+        "venue": "Prudential Center",
+        "city/state": "Newark",
+        "country": "NJ"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Primavera Sound Porto 2025",
+        "city/state": "Porto",
+        "country": "Portugal"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-16",
+        "venue": "Toyota Center",
+        "city/state": "Houston",
+        "country": "TX"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-07-03",
+        "end_date": "2025-07-03",
+        "venue": "Rock Werchter 2025",
+        "city/state": "Werchter",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-31",
+        "end_date": "2025-03-31",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-04",
+        "end_date": "2025-03-04",
+        "venue": "Chase Center",
+        "city/state": "San Francisco",
+        "country": "CA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-07-02",
+        "end_date": "2025-07-02",
+        "venue": "Roskilde Festival 2025",
+        "city/state": "Roskilde",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Best Kept Secret 2025",
+        "city/state": "Hilvarenbeek",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-06",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Deftones",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-13",
+        "venue": "Frost Bank Center",
+        "city/state": "San Antonio",
+        "country": "TX"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-02-07",
+        "end_date": "2025-02-07",
+        "venue": "OVO Arena Wembley",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-02-03",
+        "end_date": "2025-02-03",
+        "venue": "Forest National",
+        "city/state": "Bruxelles",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-11",
+        "end_date": "2025-09-11",
+        "venue": "Empower Federal Credit Union Amphitheater at Lakeview",
+        "city/state": "Syracuse",
+        "country": "NY"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-08-14",
+        "end_date": "2025-08-14",
+        "venue": "Open Air Gampel 2025",
+        "city/state": "Gampel-Bratsch",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-27",
+        "end_date": "2025-09-27",
+        "venue": "Credit Union 1 Amphitheatre",
+        "city/state": "Tinley Park",
+        "country": "IL"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-10-05",
+        "end_date": "2025-10-05",
+        "venue": "iTHINK Financial Amphiteatre",
+        "city/state": "West Palm Beach",
+        "country": "FL"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "Motorpoint Arena",
+        "city/state": "Nottingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-08-06",
+        "end_date": "2025-08-06",
+        "venue": "Sziget Festival 2025",
+        "city/state": "Budapest III. kerA 1/4let",
+        "country": "Hungary"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-10-04",
+        "end_date": "2025-10-04",
+        "venue": "MIDFLORIDA Credit Union Amphitheatre",
+        "city/state": "Tampa",
+        "country": "FL"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-09",
+        "end_date": "2025-04-09",
+        "venue": "T-Mobile Center",
+        "city/state": "Kansas City",
+        "country": "MO"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "AFAS Live",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-10",
+        "end_date": "2025-09-10",
+        "venue": "Hartford HealthCare Amphitheater",
+        "city/state": "Bridgeport",
+        "country": "CT"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-12",
+        "end_date": "2025-04-12",
+        "venue": "Resch Center",
+        "city/state": "Green Bay",
+        "country": "WI"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-08-06",
+        "end_date": "2025-08-06",
+        "venue": "Open Flair 2025",
+        "city/state": "Eschwege",
+        "country": "Germany"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Frost Bank Center",
+        "city/state": "San Antonio",
+        "country": "TX"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-02-09",
+        "end_date": "2025-02-09",
+        "venue": "Rise of The Roach Tour",
+        "city/state": "Liverpool",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-03",
+        "end_date": "2025-04-03",
+        "venue": "Maverik Center",
+        "city/state": "West Valley City",
+        "country": "UT"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-23",
+        "end_date": "2025-09-23",
+        "venue": "PNC Pavilion",
+        "city/state": "Cincinnati",
+        "country": "OH"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-25",
+        "end_date": "2025-03-25",
+        "venue": "Talking Stick Resort Amphitheatre",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-08",
+        "venue": "Taubertal Festival 2025",
+        "city/state": "Schwangau",
+        "country": "Germany"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-07",
+        "end_date": "2025-04-07",
+        "venue": "Ball Arena",
+        "city/state": "Denver",
+        "country": "CO"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-13",
+        "end_date": "2025-04-13",
+        "venue": "Xcel Energy Center",
+        "city/state": "Saint Paul",
+        "country": "MN"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-14",
+        "end_date": "2025-09-14",
+        "venue": "Xfinity Center",
+        "city/state": "Mansfield",
+        "country": "MA"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-10-01",
+        "end_date": "2025-10-01",
+        "venue": "FirstBank Amphitheater",
+        "city/state": "Franklin",
+        "country": "TN"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-30",
+        "end_date": "2025-09-30",
+        "venue": "Walmart AMP",
+        "city/state": "Rogers",
+        "country": "AR"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-07-20",
+        "end_date": "2025-07-20",
+        "venue": "Festival GA(c)nA(c)rations 2024",
+        "city/state": "Nicolet",
+        "country": "QC"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-10-03",
+        "end_date": "2025-10-03",
+        "venue": "Skyla Credit Union Amphitheatre",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-28",
+        "end_date": "2025-09-28",
+        "venue": "Pine Knob Music Theatre",
+        "city/state": "Clarkston",
+        "country": "MI"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-01",
+        "venue": "Mitsubishi Electric HALLE",
+        "city/state": "Dusseldorf",
+        "country": "Germany"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-17",
+        "end_date": "2025-09-17",
+        "venue": "Virginia beach Dome",
+        "city/state": "Virginia Beach",
+        "country": "VA"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "Kia Forum",
+        "city/state": "Inglewood",
+        "country": "CA"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-16",
+        "end_date": "2025-09-16",
+        "venue": "The Anthem",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Golden 1 Center",
+        "city/state": "Sacramento",
+        "country": "CA"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-05",
+        "end_date": "2025-04-05",
+        "venue": "MGM Grand Garden Arena",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Petco Park",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-07-30",
+        "end_date": "2025-07-30",
+        "venue": "Wacken Open Air 2025",
+        "city/state": "Wacken",
+        "country": "Germany"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-01",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-19",
+        "end_date": "2025-09-19",
+        "venue": "PPL Center",
+        "city/state": "Allentown",
+        "country": "PA"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-02-05",
+        "end_date": "2025-02-05",
+        "venue": "Zenith Paris - La Villette",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-13",
+        "end_date": "2025-09-13",
+        "venue": "Northwell Health at Jones Beach Theater",
+        "city/state": "Wantagh",
+        "country": "NY"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-24",
+        "end_date": "2025-09-24",
+        "venue": "Saint Louis Music Park",
+        "city/state": "Maryland Heights",
+        "country": "MO"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-08-09",
+        "end_date": "2025-08-09",
+        "venue": "Elbriot Festival 2025",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-20",
+        "end_date": "2025-09-20",
+        "venue": "Maine Savings Amphitheater",
+        "city/state": "Bangor",
+        "country": "ME"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-31",
+        "end_date": "2025-03-31",
+        "venue": "Veterans Memorial Coliseum",
+        "city/state": "Portland",
+        "country": "OR"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-04-10",
+        "end_date": "2025-04-10",
+        "venue": "CHI Health Center Omaha",
+        "city/state": "Omaha",
+        "country": "NE"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-16",
+        "venue": "El Festival MAosica x La Vida 2024",
+        "city/state": "Zapopan",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-17",
+        "venue": "FAate de Lac des Nations 2025",
+        "city/state": "Sherbrooke",
+        "country": "QC"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-09-26",
+        "end_date": "2025-09-26",
+        "venue": "Everwise Amphitheater at White River State Park",
+        "city/state": "Indianapolis",
+        "country": "IN"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-20",
+        "end_date": "2025-03-20",
+        "venue": "Toyota Center",
+        "city/state": "Houston",
+        "country": "TX"
+    },
+    {
+        "artist": "Papa Roach",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-23",
+        "venue": "American Airlines Center",
+        "city/state": "Dallas",
+        "country": "TX"
+    }
+]

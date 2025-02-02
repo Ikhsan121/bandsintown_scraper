@@ -1,0 +1,378 @@
+[
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-22",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-04-29",
+        "end_date": "2025-04-29",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-04-28",
+        "end_date": "2025-04-28",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "Palau Sant Jordi",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-01",
+        "end_date": "2025-06-01",
+        "venue": "ParkovacA dA-m O2 areny",
+        "city/state": "Praha 9",
+        "country": "Czechia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-08",
+        "end_date": "2025-07-08",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-14",
+        "end_date": "2025-06-14",
+        "venue": "Palau Sant Jordi",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-05-29",
+        "end_date": "2025-05-29",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-24",
+        "end_date": "2025-02-24",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-05-30",
+        "end_date": "2025-05-30",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-08",
+        "end_date": "2025-06-08",
+        "venue": "Unipol Arena",
+        "city/state": "CASALECCHIO DI RENO",
+        "country": "Italy"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-06",
+        "end_date": "2025-06-06",
+        "venue": "Wiener Stadthalle - Halle D",
+        "city/state": "Vienna",
+        "country": "Austria"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-23",
+        "end_date": "2025-07-23",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-04",
+        "end_date": "2025-06-04",
+        "venue": "Tauron Arena Krakow",
+        "city/state": "KrakA3w",
+        "country": "Poland"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-27",
+        "end_date": "2025-07-27",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-03",
+        "end_date": "2025-06-03",
+        "venue": "Tauron Arena Krakow",
+        "city/state": "KrakA3w",
+        "country": "Poland"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-04-24",
+        "end_date": "2025-04-24",
+        "venue": "Avicii Arena",
+        "city/state": "Stockholm",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-09",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-25",
+        "end_date": "2025-02-25",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-05-07",
+        "end_date": "2025-05-07",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-10",
+        "end_date": "2025-06-10",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-06-11",
+        "end_date": "2025-06-11",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-05",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-07",
+        "end_date": "2025-07-07",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-05-04",
+        "end_date": "2025-05-04",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-04-23",
+        "end_date": "2025-04-23",
+        "venue": "Avicii Arena",
+        "city/state": "Stockholm",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-05-05",
+        "end_date": "2025-05-05",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-17",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-16",
+        "end_date": "2025-07-16",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-20",
+        "end_date": "2025-07-20",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-03-04",
+        "end_date": "2025-03-04",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-19",
+        "end_date": "2025-02-19",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-02",
+        "venue": "ZAG Arena",
+        "city/state": "Hannover",
+        "country": "Germany"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-10",
+        "end_date": "2025-07-10",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-26",
+        "venue": "Telenor Arena",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-26",
+        "end_date": "2025-07-26",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-14",
+        "end_date": "2025-07-14",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Billie Eilish",
+        "start_date": "2025-07-13",
+        "end_date": "2025-07-13",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    }
+]

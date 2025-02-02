@@ -1,0 +1,578 @@
+[
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-20",
+        "end_date": "2025-05-20",
+        "venue": "Jacobs Pavilion",
+        "city/state": "Cleveland",
+        "country": "OH"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-30",
+        "end_date": "2025-05-30",
+        "venue": "Suffolk Downs",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-09",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-06",
+        "end_date": "2025-08-06",
+        "venue": "Moody Amphitheater",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-01",
+        "venue": "Bakkt Theatre at Planet Hollywood",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-30",
+        "end_date": "2025-08-30",
+        "venue": "Doug Mitchell Thunderbird Sports Centre",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "Coca-Cola Coliseum",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-17",
+        "venue": "The Anthem",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-12",
+        "venue": "Stage AE",
+        "city/state": "Pittsburgh",
+        "country": "PA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-13",
+        "end_date": "2025-03-13",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-03",
+        "venue": "Utilita Arena Birmingham",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "Everwise Amphitheater at White River State Park",
+        "city/state": "Indianapolis",
+        "country": "IN"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-15",
+        "venue": "Coca-Cola Ampitheater",
+        "city/state": "Birmingham",
+        "country": "AL"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-09-10",
+        "end_date": "2025-09-10",
+        "venue": "The Greek Theatre",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-24",
+        "end_date": "2025-05-24",
+        "venue": "Place Bell",
+        "city/state": "Laval",
+        "country": "QC"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-13",
+        "end_date": "2025-08-13",
+        "venue": "Cadence Bank Amphitheatre at Chastain Park",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-16",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-12",
+        "end_date": "2025-08-12",
+        "venue": "Cadence Bank Amphitheatre at Chastain Park",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-23",
+        "end_date": "2025-03-23",
+        "venue": "Lollapalooza Chile 2025",
+        "city/state": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-31",
+        "end_date": "2025-08-31",
+        "venue": "WAMU Theater",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-20",
+        "end_date": "2025-08-20",
+        "venue": "Ascend Amphitheater",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-18",
+        "end_date": "2025-08-18",
+        "venue": "Orion Amphitheater",
+        "city/state": "Huntsville",
+        "country": "AL"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-24",
+        "end_date": "2025-08-24",
+        "venue": "The Zoo Amphitheatre",
+        "city/state": "Oklahoma City",
+        "country": "OK"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-11",
+        "end_date": "2025-02-11",
+        "venue": "PSD Bank Dome",
+        "city/state": "Unterrath",
+        "country": "Germany"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-27",
+        "end_date": "2025-03-27",
+        "venue": "Festival EstA(c)reo Picnic 2025",
+        "city/state": "BogotA!",
+        "country": "Colombia"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-09-09",
+        "end_date": "2025-09-09",
+        "venue": "The Greek Theatre",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-16",
+        "end_date": "2025-02-16",
+        "venue": "Oslo Spektrum Arena",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-21",
+        "end_date": "2025-07-21",
+        "venue": "Erie Insurance Arena",
+        "city/state": "Erie",
+        "country": "PA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-06",
+        "end_date": "2025-03-06",
+        "venue": "OVO Arena Wembley",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "Daily's Place",
+        "city/state": "Jacksonville",
+        "country": "FL"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-09-05",
+        "end_date": "2025-09-05",
+        "venue": "The Greek Theatre at UC Berkeley",
+        "city/state": "Berkeley",
+        "country": "CA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-27",
+        "end_date": "2025-05-27",
+        "venue": "Radio City Music Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-16",
+        "end_date": "2025-08-16",
+        "venue": "BankPlus Amphitheater at Snowden Grove",
+        "city/state": "Southaven",
+        "country": "MS"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-16",
+        "end_date": "2025-07-16",
+        "venue": "The Anthem",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-07",
+        "end_date": "2025-08-07",
+        "venue": "The Pavilion At Toyota Music Factory",
+        "city/state": "Irving",
+        "country": "TX"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-15",
+        "end_date": "2025-05-15",
+        "venue": "Skyla Credit Union Amphitheatre",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-21",
+        "end_date": "2025-05-21",
+        "venue": "Michigan Lottery Amphitheatre at Freedom Hill",
+        "city/state": "Sterling Heights",
+        "country": "MI"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "venue": "Thomas Rhett Live at Fenway with Teddy Swims",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-26",
+        "end_date": "2025-08-26",
+        "venue": "Red Rocks Amphitheatre",
+        "city/state": "Morrison",
+        "country": "CO"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-28",
+        "end_date": "2025-08-28",
+        "venue": "America First Field",
+        "city/state": "Sandy",
+        "country": "UT"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "ICON Music Center Festival Stage",
+        "city/state": "Cincinnati",
+        "country": "OH"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-25",
+        "end_date": "2025-02-25",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "Lollapalooza Brasil 2025",
+        "city/state": "SAPSo Paulo",
+        "country": "Brazil"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Zenith Paris - La Villette",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-13",
+        "end_date": "2025-02-13",
+        "venue": "Lotto Arena",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-06",
+        "end_date": "2025-07-06",
+        "venue": "Armory",
+        "city/state": "Minneapolis",
+        "country": "MN"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-21",
+        "end_date": "2025-08-21",
+        "venue": "Ascend Amphitheater",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-10",
+        "end_date": "2025-08-10",
+        "venue": "Champions Square",
+        "city/state": "New Orleans",
+        "country": "LA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-09-03",
+        "end_date": "2025-09-03",
+        "venue": "McMenamins Edgefield",
+        "city/state": "Troutdale",
+        "country": "OR"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Lollapalooza Argentina 2025",
+        "city/state": "San Isidro",
+        "country": "Argentina"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-09-06",
+        "end_date": "2025-09-06",
+        "venue": "Lake Tahoe Outdoor Arena at Harveys",
+        "city/state": "Stateline",
+        "country": "NV"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-23",
+        "end_date": "2025-08-23",
+        "venue": "Starlight Theatre",
+        "city/state": "Kansas City",
+        "country": "MO"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-14",
+        "end_date": "2025-02-14",
+        "venue": "Sporthalle",
+        "city/state": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "Avicii Arena",
+        "city/state": "Stockholm",
+        "country": "Sweden"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-19",
+        "end_date": "2025-02-19",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-04",
+        "end_date": "2025-03-04",
+        "venue": "Utilita Arena Birmingham",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-02-23",
+        "end_date": "2025-02-23",
+        "venue": "Velodrom",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-09",
+        "venue": "Seminole Hard Rock Hotel & Casino - Hollywood, FL",
+        "city/state": "Hollywood",
+        "country": "FL"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-14",
+        "end_date": "2025-05-14",
+        "venue": "Live Oak Bank Pavilion",
+        "city/state": "Wilmington",
+        "country": "NC"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-08",
+        "end_date": "2025-07-08",
+        "venue": "Huntington Bank Pavilion at Northerly Island",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-12",
+        "end_date": "2025-05-12",
+        "venue": "The Wharf Amphitheater",
+        "city/state": "Orange Beach",
+        "country": "AL"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-31",
+        "end_date": "2025-07-31",
+        "venue": "Gallagher Square",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-03",
+        "end_date": "2025-08-03",
+        "venue": "Arizona Financial Theatre",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-08-09",
+        "end_date": "2025-08-09",
+        "venue": "713 Music Hall",
+        "city/state": "Houston",
+        "country": "TX"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-07-14",
+        "end_date": "2025-07-14",
+        "venue": "Virginia Credit Union",
+        "city/state": "Richmond",
+        "country": "VA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-10",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-17",
+        "venue": "Red Hat Amphitheater",
+        "city/state": "Raleigh",
+        "country": "NC"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-28",
+        "end_date": "2025-05-28",
+        "venue": "Radio City Music Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-12",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-05-18",
+        "end_date": "2025-05-18",
+        "venue": "TD Pavilion at the Mann",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Teddy Swims",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "OVO Arena Wembley",
+        "city/state": "London",
+        "country": "United Kingdom"
+    }
+]

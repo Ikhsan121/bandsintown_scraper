@@ -1,0 +1,42 @@
+[
+    {
+        "artist": "Vampire Weekend",
+        "start_date": "2025-05-23",
+        "end_date": "2025-05-23",
+        "venue": "Boston Calling Festival 2025",
+        "city/state": "Allston",
+        "country": "MA"
+    },
+    {
+        "artist": "Vampire Weekend",
+        "start_date": "2025-09-20",
+        "end_date": "2025-09-20",
+        "venue": "Iron Blossom 2025",
+        "city/state": "Richmond",
+        "country": "VA"
+    },
+    {
+        "artist": "Vampire Weekend",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "Just Like Heaven 2025",
+        "city/state": "Pasadena",
+        "country": "CA"
+    },
+    {
+        "artist": "Vampire Weekend",
+        "start_date": "2025-08-17",
+        "end_date": "2025-08-17",
+        "venue": "Cabaret Vert 2025",
+        "city/state": "Charleville-MA(c)ziA\"res",
+        "country": "France"
+    },
+    {
+        "artist": "Vampire Weekend",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Bonnaroo 2025",
+        "city/state": "Manchester",
+        "country": "TN"
+    }
+]

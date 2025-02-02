@@ -1,0 +1,738 @@
+[
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-02",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-27",
+        "end_date": "2025-08-27",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-16",
+        "end_date": "2025-03-16",
+        "venue": "Moody Center",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-11",
+        "end_date": "2025-02-11",
+        "venue": "Ball Arena",
+        "city/state": "Denver",
+        "country": "CO"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-04",
+        "end_date": "2025-05-04",
+        "venue": "Lanxess Arena",
+        "city/state": "KAPln",
+        "country": "Germany"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-04-27",
+        "end_date": "2025-04-27",
+        "venue": "Accorhotels Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-19",
+        "venue": "Toyota Center",
+        "city/state": "Houston",
+        "country": "TX"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-17",
+        "end_date": "2025-03-17",
+        "venue": "American Airlines Center",
+        "city/state": "Dallas",
+        "country": "TX"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-04",
+        "end_date": "2025-02-04",
+        "venue": "Xcel Energy Center",
+        "city/state": "Saint Paul",
+        "country": "MN"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-01",
+        "venue": "Hinterland Music Festival 2025",
+        "city/state": "Saint Charles",
+        "country": "IA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-22",
+        "venue": "Kia Center",
+        "city/state": "Orlando",
+        "country": "FL"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-07",
+        "end_date": "2025-05-07",
+        "venue": "Royal Arena",
+        "city/state": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "TD Garden",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-04-06",
+        "end_date": "2025-04-06",
+        "venue": "AXE Ceremonia 2025",
+        "city/state": "Ciudad de MA(c)xico",
+        "country": "Mexico"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-15",
+        "venue": "Moody Center",
+        "city/state": "Austin",
+        "country": "TX"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-22",
+        "end_date": "2025-05-22",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-24",
+        "end_date": "2025-05-24",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-24",
+        "end_date": "2025-03-24",
+        "venue": "Kaseya Center",
+        "city/state": "Miami",
+        "country": "FL"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-14",
+        "end_date": "2025-02-14",
+        "venue": "Crypto.com Arena",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-12",
+        "end_date": "2025-03-12",
+        "venue": "Footprint Center",
+        "city/state": "Phoenix",
+        "country": "AZ"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-03",
+        "venue": "Climate Pledge Arena",
+        "city/state": "Seattle",
+        "country": "WA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-15",
+        "end_date": "2025-07-15",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-09",
+        "venue": "O2 Arena",
+        "city/state": "Prague",
+        "country": "Czech Republic"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-06",
+        "end_date": "2025-05-06",
+        "venue": "Oslo Spektrum Arena",
+        "city/state": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-24",
+        "end_date": "2025-02-24",
+        "venue": "Oakland Arena",
+        "city/state": "Oakland",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-08",
+        "end_date": "2025-07-08",
+        "venue": "TD Garden",
+        "city/state": "Boston",
+        "country": "MA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-23",
+        "end_date": "2025-08-23",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-19",
+        "end_date": "2025-05-19",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-18",
+        "end_date": "2025-02-18",
+        "venue": "Crypto.com Arena",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-24",
+        "end_date": "2025-08-24",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-06-28",
+        "end_date": "2025-06-28",
+        "venue": "Rocket Mortgage FieldHouse",
+        "city/state": "Cleveland",
+        "country": "OH"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-28",
+        "end_date": "2025-08-28",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "Heritage Bank Center",
+        "city/state": "Cincinnati",
+        "country": "OH"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-14",
+        "end_date": "2025-07-14",
+        "venue": "Madison Square Garden",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-30",
+        "end_date": "2025-08-30",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-21",
+        "end_date": "2025-03-21",
+        "venue": "State Farm Arena",
+        "city/state": "Atlanta",
+        "country": "GA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-26",
+        "end_date": "2025-08-26",
+        "venue": "Qudos Bank Arena",
+        "city/state": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-09-04",
+        "end_date": "2025-09-04",
+        "venue": "RAC Arena",
+        "city/state": "Perth",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Crypto.com Arena",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-02",
+        "end_date": "2025-05-02",
+        "venue": "Festhalle",
+        "city/state": "Frankfurt",
+        "country": "Germany"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-15",
+        "end_date": "2025-05-15",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-05",
+        "end_date": "2025-03-05",
+        "venue": "Chase Center",
+        "city/state": "San Francisco",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-01",
+        "end_date": "2025-05-01",
+        "venue": "Hallenstadion",
+        "city/state": "ZA 1/4rich",
+        "country": "Switzerland"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-27",
+        "end_date": "2025-07-27",
+        "venue": "Prudential Center",
+        "city/state": "Newark",
+        "country": "NJ"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-10",
+        "end_date": "2025-03-10",
+        "venue": "Pechanga Arena",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-18",
+        "end_date": "2025-08-18",
+        "venue": "Spark Arena",
+        "city/state": "Auckland",
+        "country": "New Zealand"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-23",
+        "end_date": "2025-02-23",
+        "venue": "Golden 1 Center",
+        "city/state": "Sacramento",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-04-25",
+        "end_date": "2025-04-25",
+        "venue": "Sportpaleis",
+        "city/state": "Antwerpen",
+        "country": "Belgium"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-06",
+        "end_date": "2025-02-06",
+        "venue": "Fiserv Forum",
+        "city/state": "Milwaukee",
+        "country": "WI"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Bonnaroo 2025",
+        "city/state": "Manchester",
+        "country": "TN"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-26",
+        "end_date": "2025-03-26",
+        "venue": "Spectrum Center",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-09",
+        "venue": "Pechanga Arena",
+        "city/state": "San Diego",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-26",
+        "end_date": "2025-02-26",
+        "venue": "Moda Center",
+        "city/state": "Portland",
+        "country": "OR"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-04-01",
+        "end_date": "2025-04-01",
+        "venue": "Capital One Arena",
+        "city/state": "Washington",
+        "country": "DC"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "CFG Bank Arena",
+        "city/state": "Baltimore",
+        "country": "MD"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-09-05",
+        "end_date": "2025-09-05",
+        "venue": "RAC Arena",
+        "city/state": "Perth",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-29",
+        "venue": "The Schottenstein Center",
+        "city/state": "Columbus",
+        "country": "OH"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-20",
+        "end_date": "2025-08-20",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "Rogers Arena",
+        "city/state": "Vancouver",
+        "country": "BC"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-25",
+        "venue": "Scotiabank Arena",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-28",
+        "end_date": "2025-05-28",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-03",
+        "end_date": "2025-07-03",
+        "venue": "Little Caesars Arena",
+        "city/state": "Detroit",
+        "country": "MI"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "MGM Grand Garden Arena",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-06-06",
+        "end_date": "2025-06-06",
+        "venue": "The Governors Ball 2025",
+        "city/state": "Queens",
+        "country": "New York"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-24",
+        "end_date": "2025-07-24",
+        "venue": "Scotiabank Arena",
+        "city/state": "Toronto",
+        "country": "ON"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-22",
+        "end_date": "2025-07-22",
+        "venue": "Bell Centre",
+        "city/state": "Montreal",
+        "country": "QC"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-04-28",
+        "end_date": "2025-04-28",
+        "venue": "Accor Arena",
+        "city/state": "Paris",
+        "country": "France"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-25",
+        "end_date": "2025-05-25",
+        "venue": "3Arena",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-20",
+        "venue": "Crypto.com Arena",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-01",
+        "end_date": "2025-07-01",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-31",
+        "end_date": "2025-05-31",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-28",
+        "end_date": "2025-07-28",
+        "venue": "Prudential Center",
+        "city/state": "Newark",
+        "country": "NJ"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-17",
+        "venue": "Utilita Arena Birmingham",
+        "city/state": "Birmingham",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-06-30",
+        "end_date": "2025-06-30",
+        "venue": "United Center",
+        "city/state": "Chicago",
+        "country": "IL"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-22",
+        "end_date": "2025-08-22",
+        "venue": "Rod Laver Arena",
+        "city/state": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-17",
+        "end_date": "2025-02-17",
+        "venue": "Crypto.com Arena",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-30",
+        "end_date": "2025-05-30",
+        "venue": "OVO Hydro",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-06",
+        "end_date": "2025-07-06",
+        "venue": "Wells Fargo Center",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-04-30",
+        "end_date": "2025-04-30",
+        "venue": "Forum",
+        "city/state": "Assago",
+        "country": "Italy"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-14",
+        "end_date": "2025-05-14",
+        "venue": "Ziggo Dome",
+        "city/state": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-18",
+        "end_date": "2025-07-18",
+        "venue": "Barclays Center",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-10",
+        "end_date": "2025-05-10",
+        "venue": "Tauron Arena",
+        "city/state": "Krakau",
+        "country": "Poland"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-08-31",
+        "end_date": "2025-08-31",
+        "venue": "Brisbane Entertainment Centre",
+        "city/state": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-21",
+        "end_date": "2025-05-21",
+        "venue": "The O2",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-17",
+        "venue": "Barclays Center",
+        "city/state": "Brooklyn",
+        "country": "NY"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-12",
+        "end_date": "2025-05-12",
+        "venue": "Uber Arena",
+        "city/state": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-15",
+        "end_date": "2025-02-15",
+        "venue": "Crypto.com Arena",
+        "city/state": "Los Angeles",
+        "country": "CA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-08",
+        "venue": "T-Mobile Center",
+        "city/state": "Kansas City",
+        "country": "MO"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-05-27",
+        "end_date": "2025-05-27",
+        "venue": "Co-op Live",
+        "city/state": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-12",
+        "end_date": "2025-07-12",
+        "venue": "Lenovo Center",
+        "city/state": "Raleigh",
+        "country": "NC"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-03-28",
+        "end_date": "2025-03-28",
+        "venue": "PPG Paints Arena",
+        "city/state": "Pittsburgh",
+        "country": "PA"
+    },
+    {
+        "artist": "Tyler, The Creator",
+        "start_date": "2025-07-05",
+        "end_date": "2025-07-05",
+        "venue": "Wells Fargo Center",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    }
+]

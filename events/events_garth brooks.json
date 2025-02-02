@@ -1,0 +1,82 @@
+[
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-08",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-01",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-02-23",
+        "end_date": "2025-02-23",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-03-02",
+        "end_date": "2025-03-02",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-03-09",
+        "end_date": "2025-03-09",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-22",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-02-28",
+        "end_date": "2025-02-28",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-03-07",
+        "end_date": "2025-03-07",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-03-19",
+        "end_date": "2025-03-19",
+        "venue": "Grand Ole Opry House",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Garth Brooks",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "The Colosseum at Caesars Palace",
+        "city/state": "Las Vegas",
+        "country": "NV"
+    }
+]

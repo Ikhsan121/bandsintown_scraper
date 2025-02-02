@@ -1,0 +1,90 @@
+[
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-02-21",
+        "end_date": "2025-02-21",
+        "venue": "Grand Ole Opry House",
+        "city/state": "Nashville",
+        "country": "TN"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-25",
+        "end_date": "2025-06-25",
+        "venue": "Ovens Auditorium",
+        "city/state": "Charlotte",
+        "country": "NC"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-13",
+        "end_date": "2025-06-13",
+        "venue": "Radio City Music Hall",
+        "city/state": "New York",
+        "country": "NY"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-12",
+        "venue": "Hartford HealthCare Amphitheater",
+        "city/state": "Bridgeport",
+        "country": "CT"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-20",
+        "end_date": "2025-06-20",
+        "venue": "Seminole Hard Rock Hotel & Casino - Hollywood, FL",
+        "city/state": "Hollywood",
+        "country": "FL"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-21",
+        "end_date": "2025-06-21",
+        "venue": "The BayCare Sound",
+        "city/state": "Clearwater",
+        "country": "FL"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-18",
+        "end_date": "2025-06-18",
+        "venue": "Steven Tanger Center for the Performing Arts",
+        "city/state": "Greensboro",
+        "country": "NC"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-15",
+        "end_date": "2025-06-15",
+        "venue": "TD Pavilion at the Mann",
+        "city/state": "Philadelphia",
+        "country": "PA"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-17",
+        "end_date": "2025-06-17",
+        "venue": "Filene Center at Wolf Trap",
+        "city/state": "Vienna",
+        "country": "VA"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-24",
+        "end_date": "2025-06-24",
+        "venue": "Mercedes-Benz Amphitheater",
+        "city/state": "Tuscaloosa",
+        "country": "AL"
+    },
+    {
+        "artist": "Ringo Starr",
+        "start_date": "2025-06-22",
+        "end_date": "2025-06-22",
+        "venue": "St. Augustine Amphitheatre",
+        "city/state": "St. Augustine",
+        "country": "FL"
+    }
+]

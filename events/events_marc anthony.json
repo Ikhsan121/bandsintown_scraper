@@ -1,0 +1,82 @@
+[
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-02-27",
+        "end_date": "2025-02-27",
+        "venue": "Estadio Nacional",
+        "city/state": "Cercado de Lima",
+        "country": "Peru"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-06-27",
+        "end_date": "2025-06-27",
+        "venue": "BEC: Bilbao Exhibition Centre",
+        "city/state": "Bilboko barruti judiziala",
+        "country": "Spain"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-02-23",
+        "end_date": "2025-02-23",
+        "venue": "Quinta Vergara Amphitheater",
+        "city/state": "ViA+-a del Mar",
+        "country": "Chile"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-07-04",
+        "end_date": "2025-07-04",
+        "venue": "Auditorio Starlite",
+        "city/state": "Playa Duque Marbella",
+        "country": "Spain"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-06-29",
+        "end_date": "2025-06-29",
+        "venue": "Marc Anthony en Movistar Arena, Madrid",
+        "city/state": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-07-11",
+        "end_date": "2025-07-11",
+        "venue": "Muelle Reina Victoria",
+        "city/state": "Cadiz",
+        "country": "Spain"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-01",
+        "venue": "Romelio MartAnez Stadium",
+        "city/state": "Barranquilla",
+        "country": "Colombia"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-07-06",
+        "end_date": "2025-07-06",
+        "venue": "Roquetas de Mar",
+        "city/state": "Roquetas de Mar",
+        "country": "Spain"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-07-09",
+        "end_date": "2025-07-09",
+        "venue": "Marc Anthony en Barcelona, Palau Sant jordi",
+        "city/state": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "artist": "Marc Anthony",
+        "start_date": "2025-07-03",
+        "end_date": "2025-07-03",
+        "venue": "Auditorio Starlite",
+        "city/state": "Playa Duque Marbella",
+        "country": "Spain"
+    }
+]

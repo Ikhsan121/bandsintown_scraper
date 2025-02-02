@@ -1,0 +1,50 @@
+[
+    {
+        "artist": "Lana Del Rey",
+        "start_date": "2025-07-03",
+        "end_date": "2025-07-03",
+        "venue": "Wembley Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Lana Del Rey",
+        "start_date": "2025-07-04",
+        "end_date": "2025-07-04",
+        "venue": "Wembley Stadium",
+        "city/state": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Lana Del Rey",
+        "start_date": "2025-06-28",
+        "end_date": "2025-06-28",
+        "venue": "Anfield Stadium",
+        "city/state": "Liverpool",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Lana Del Rey",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-26",
+        "venue": "Hampden Park National Stadium",
+        "city/state": "Glasgow",
+        "country": "United Kingdom"
+    },
+    {
+        "artist": "Lana Del Rey",
+        "start_date": "2025-06-30",
+        "end_date": "2025-06-30",
+        "venue": "Aviva Stadium",
+        "city/state": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "artist": "Lana Del Rey",
+        "start_date": "2025-06-23",
+        "end_date": "2025-06-23",
+        "venue": "Principality Stadium",
+        "city/state": "Cardiff",
+        "country": "United Kingdom"
+    }
+]
